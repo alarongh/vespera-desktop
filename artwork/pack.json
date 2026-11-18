@@ -57,6 +57,30 @@
         {
           "file": "work/05.png",
           "ms": 620
+        },
+        {
+          "file": "work/06.png",
+          "ms": 520
+        },
+        {
+          "file": "work/07.png",
+          "ms": 470
+        },
+        {
+          "file": "work/08.png",
+          "ms": 180
+        },
+        {
+          "file": "work/09.png",
+          "ms": 420
+        },
+        {
+          "file": "work/10.png",
+          "ms": 540
+        },
+        {
+          "file": "work/00.png",
+          "ms": 510
         }
       ]
     },
@@ -111,6 +135,30 @@
         {
           "file": "smoke/11.png",
           "ms": 600
+        },
+        {
+          "file": "smoke/12.png",
+          "ms": 480
+        },
+        {
+          "file": "smoke/13.png",
+          "ms": 610
+        },
+        {
+          "file": "smoke/14.png",
+          "ms": 940
+        },
+        {
+          "file": "smoke/15.png",
+          "ms": 970
+        },
+        {
+          "file": "smoke/16.png",
+          "ms": 780
+        },
+        {
+          "file": "smoke/17.png",
+          "ms": 720
         }
       ]
     },
@@ -357,6 +405,30 @@
         {
           "file": "idol-dance/11.png",
           "ms": 570
+        },
+        {
+          "file": "idol-dance/12.png",
+          "ms": 380
+        },
+        {
+          "file": "idol-dance/13.png",
+          "ms": 500
+        },
+        {
+          "file": "idol-dance/14.png",
+          "ms": 420
+        },
+        {
+          "file": "idol-dance/15.png",
+          "ms": 530
+        },
+        {
+          "file": "idol-dance/16.png",
+          "ms": 780
+        },
+        {
+          "file": "idol-dance/17.png",
+          "ms": 590
         }
       ]
     }

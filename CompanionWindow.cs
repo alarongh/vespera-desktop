@@ -26,6 +26,9 @@ internal sealed class CompanionWindow : Window
     private long? lastKey;
     private long? lastWheel;
     private long danceUntil;
+    private bool dancePending;
+    private bool playingWork;
+    private long? finishWorkAt;
     private long ignoreKeyboardUntil;
     private bool moveUnlocked;
     private bool clickThrough = true;
@@ -60,8 +63,14 @@ internal sealed class CompanionWindow : Window
         Top = area.Bottom - Height - 8;
 
         var menu = new Forms.ContextMenuStrip();
-        Add(menu, "Автоматически", () => { demo = false; manual = null; });
-        Add(menu, "Демонстрация", () => { demoStarted = clock.ElapsedMilliseconds; demo = true; manual = null; });
+        Add(menu, "Автоматически", () => { demo = false; manual = null; ResetPerformance(); });
+        Add(menu, "Демонстрация", () =>
+        {
+            ResetPerformance();
+            demoStarted = clock.ElapsedMilliseconds;
+            demo = true;
+            manual = null;
+        });
         var preview = new Forms.ToolStripMenuItem("Показать сцену");
         foreach (var (key, label) in pack.Labels)
             Add(preview, label, () => Preview(key));
@@ -76,8 +85,7 @@ internal sealed class CompanionWindow : Window
         {
             matchAllApps = allApps.Checked;
             lastKey = null;
-            typingDance.Reset();
-            danceUntil = 0;
+            ResetPerformance();
         };
         menu.Items.Add(allApps);
         var move = new Forms.ToolStripMenuItem("Перетаскивать без Alt") { CheckOnClick = true };
@@ -106,13 +114,14 @@ internal sealed class CompanionWindow : Window
                     (!matchAllApps && !input.IsCodexForeground())) return;
                 lastKey = now;
                 typingDance.Record(now, rules.TypingHoldMs);
+                dancePending = false;
                 danceUntil = 0;
+                finishWorkAt = null;
             };
             input.WheelActivity += () =>
             {
                 lastWheel = clock.ElapsedMilliseconds;
-                typingDance.Reset();
-                danceUntil = 0;
+                ResetPerformance();
             };
             input.SetClickThrough(true);
             RefreshClickThrough();
@@ -124,8 +133,7 @@ internal sealed class CompanionWindow : Window
             drag.Begin(pointer, PointToScreen(new Point(0, 0)));
             lastKey = null;
             lastWheel = null;
-            typingDance.Reset();
-            danceUntil = 0;
+            ResetPerformance();
             e.Handled = true;
         };
         MouseLeftButtonUp += (_, _) => FinishDrag();
@@ -149,10 +157,21 @@ internal sealed class CompanionWindow : Window
 
     private void Preview(string scene)
     {
+        ResetPerformance();
         demo = false;
         manual = scene;
-        manualUntil = clock.ElapsedMilliseconds + (scene == "idol-dance" ? pack.Scenes[scene].Length : 6500);
+        manualUntil = clock.ElapsedMilliseconds +
+            (scene is "work" or "idol-dance" or "smoke" ? pack.Scenes[scene].Length : 6500);
         current = "";
+    }
+
+    private void ResetPerformance()
+    {
+        typingDance.Reset();
+        dancePending = false;
+        danceUntil = 0;
+        playingWork = false;
+        finishWorkAt = null;
     }
 
     private void ResizeSprite(int width)
@@ -195,17 +214,33 @@ internal sealed class CompanionWindow : Window
         }
         if (manual is not null && now < manualUntil) return manual;
         manual = null;
-        if (demo) return DemoScene((now - demoStarted) % 19000);
+        if (demo) return DemoScene(now - demoStarted);
         bool typingAllowed = matchAllApps || input?.IsCodexForeground() == true;
         if (!typingAllowed)
         {
-            typingDance.Reset();
-            danceUntil = 0;
+            ResetPerformance();
         }
         string automatic = rules.Choose(now, lastKey, lastWheel, input?.IdleMilliseconds ?? 0, typingAllowed);
-        if (automatic is "work" or "look") return automatic;
-        if (typingAllowed && typingDance.TryStart(now, rules))
+        if (automatic == "look") return automatic;
+        if (automatic == "work")
+        {
+            playingWork = true;
+            finishWorkAt = null;
+            return automatic;
+        }
+        if (typingAllowed && typingDance.TryStart(now, rules)) dancePending = true;
+        if (playingWork && current == "work")
+        {
+            finishWorkAt ??= started + pack.Scenes["work"].EndOfCycle(now - started);
+            if (now < finishWorkAt) return "work";
+        }
+        playingWork = false;
+        finishWorkAt = null;
+        if (dancePending)
+        {
+            dancePending = false;
             danceUntil = now + pack.Scenes["idol-dance"].Length;
+        }
         return now < danceUntil ? "idol-dance" : automatic;
     }
 
@@ -246,12 +281,15 @@ internal sealed class CompanionWindow : Window
         return dx * dx + dy * dy < 36 ? pack.Scenes["idle"].At(0) : pack.Look(dx, dy);
     }
 
-    private static string DemoScene(long milliseconds) => milliseconds switch
+    private string DemoScene(long elapsed)
     {
-        < 1800 => "idle",
-        < 4700 => "work",
-        < 9300 => "idol-dance",
-        < 15000 => "smoke",
-        _ => "look"
-    };
+        long workEnd = 1800 + pack.Scenes["work"].Length;
+        long danceEnd = workEnd + pack.Scenes["idol-dance"].Length;
+        long smokeEnd = danceEnd + pack.Scenes["smoke"].Length;
+        long position = elapsed % (smokeEnd + 4000);
+        if (position < 1800) return "idle";
+        if (position < workEnd) return "work";
+        if (position < danceEnd) return "idol-dance";
+        return position < smokeEnd ? "smoke" : "look";
+    }
 }

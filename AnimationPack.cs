@@ -36,6 +36,14 @@ internal sealed class Scene
         int frame = Array.BinarySearch(ends, elapsed + 1);
         return frames[frame < 0 ? ~frame : frame].Image;
     }
+
+    public long EndOfCycle(long elapsed)
+    {
+        if (elapsed <= Length) return Length;
+        long loopLength = Length - IntroLength;
+        long position = (elapsed - Length) % loopLength;
+        return position == 0 ? elapsed : elapsed + loopLength - position;
+    }
 }
 
 internal sealed class AnimationPack
@@ -92,7 +100,10 @@ internal sealed class AnimationPack
         {
             Scene scene = pair.Value;
             if (scene.Count < 2 || scene.At(0).PixelHeight < 350 ||
-                !ReferenceEquals(scene.At(scene.Length), scene.At(scene.IntroLength)))
+                !ReferenceEquals(scene.At(scene.Length), scene.At(scene.IntroLength)) ||
+                scene.EndOfCycle(scene.Length - 1) != scene.Length ||
+                scene.EndOfCycle(scene.Length) != scene.Length ||
+                scene.EndOfCycle(scene.Length + 1) != scene.Length * 2 - scene.IntroLength)
                 throw new InvalidDataException($"Сбой воспроизведения сцены {pair.Key}.");
         }
         if (ReferenceEquals(Look(1, 0), Look(-1, 0)))
