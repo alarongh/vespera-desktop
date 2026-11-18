@@ -1,0 +1,7 @@
+bin/
+obj/
+release/
+smoke-test/
+__pycache__/
+*.pyc
+.vs/
