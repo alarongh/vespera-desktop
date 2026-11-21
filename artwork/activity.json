@@ -1,9 +1,0 @@
-{
-  "typingHoldMs": 2600,
-  "scrollHoldMs": 1700,
-  "smokeAfterMs": 5500,
-  "windowWidth": 320,
-  "danceMinEvents": 12,
-  "danceMinTypingMs": 1200,
-  "typingInAllApps": true
-}

@@ -1,0 +1,5389 @@
+{
+  "scenes": {
+    "b2-rise-side": {
+      "label": "Встаёт",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 109
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00729.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00730.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00731.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00732.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 62
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 68
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 72
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 88
+        }
+      ]
+    },
+    "smoke-out": {
+      "label": "Застёгивает сценический костюм",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-1.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-2.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00464.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-016-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-017-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00468.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00469.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-1.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-019-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00471.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-020-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00472.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00473.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-022-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 85
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 112
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 126
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00490.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-032-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00491.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-033-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00492.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-034-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00493.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-035-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 95
+        },
+        {
+          "file": "b2-ivory-mesh/00101.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-01.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-02.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-03.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-04.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00102.png",
+          "ms": 82
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-040-0.png",
+          "ms": 81
+        },
+        {
+          "file": "b2-ivory-mesh/00103.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-042-0.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/00104.png",
+          "ms": 167
+        },
+        {
+          "file": "b1-polished/00127.png",
+          "ms": 30
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-043-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-polished/00712.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00713.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00714.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00715.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00716.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00128.png",
+          "ms": 230
+        },
+        {
+          "file": "b1-polished/00129.png",
+          "ms": 31
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-046-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00722.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00723.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-0.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-1.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-2.png",
+          "ms": 25
+        },
+        {
+          "file": "b1-polished/00726.png",
+          "ms": 34
+        },
+        {
+          "file": "wardrobe/b1-neutral.png",
+          "ms": 145
+        }
+      ]
+    },
+    "b2-rise-cross": {
+      "label": "Встаёт",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00010.png",
+          "ms": 109
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-2.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00006.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00008.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00746.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00747.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00729.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00730.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00731.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00732.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 62
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 68
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 72
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 88
+        }
+      ]
+    },
+    "rest-out-cross": {
+      "label": "Застёгивает сценический костюм",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00010.png",
+          "ms": 109
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-2.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00006.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00008.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00746.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00747.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-1.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-2.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/00464.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-016-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-017-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00468.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00469.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-1.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-019-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00471.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-020-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00472.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00473.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-022-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 85
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 112
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 126
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00490.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-032-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00491.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-033-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00492.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-034-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00493.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-035-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 95
+        },
+        {
+          "file": "b2-ivory-mesh/00101.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-01.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-02.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-03.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-04.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00102.png",
+          "ms": 82
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-040-0.png",
+          "ms": 81
+        },
+        {
+          "file": "b2-ivory-mesh/00103.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-042-0.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/00104.png",
+          "ms": 167
+        },
+        {
+          "file": "b1-polished/00127.png",
+          "ms": 30
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-043-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-polished/00712.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00713.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00714.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00715.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00716.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00128.png",
+          "ms": 230
+        },
+        {
+          "file": "b1-polished/00129.png",
+          "ms": 31
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-046-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00722.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00723.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-0.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-1.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-2.png",
+          "ms": 25
+        },
+        {
+          "file": "b1-polished/00726.png",
+          "ms": 34
+        },
+        {
+          "file": "wardrobe/b1-neutral.png",
+          "ms": 145
+        }
+      ]
+    },
+    "b2-rise-knee": {
+      "label": "Встаёт",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00013.png",
+          "ms": 109
+        },
+        {
+          "file": "b2-ivory-mesh/00012.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-2.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00010.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-2.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00006.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00008.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00760.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00761.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00729.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00730.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00731.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00732.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 62
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 68
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 72
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 88
+        }
+      ]
+    },
+    "rest-out-knee": {
+      "label": "Застёгивает сценический костюм",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00013.png",
+          "ms": 109
+        },
+        {
+          "file": "b2-ivory-mesh/00012.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-2.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00010.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-2.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00006.png",
+          "ms": 125
+        },
+        {
+          "file": "b2-ivory-mesh/00008.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00760.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00761.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-1.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-2.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/00464.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-016-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-017-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00468.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00469.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-1.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-019-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00471.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-020-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00472.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00473.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-022-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 85
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 112
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 126
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00490.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-032-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00491.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-033-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00492.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-034-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00493.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-035-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 95
+        },
+        {
+          "file": "b2-ivory-mesh/00101.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-01.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-02.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-03.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-04.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00102.png",
+          "ms": 82
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-040-0.png",
+          "ms": 81
+        },
+        {
+          "file": "b2-ivory-mesh/00103.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-042-0.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/00104.png",
+          "ms": 167
+        },
+        {
+          "file": "b1-polished/00127.png",
+          "ms": 30
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-043-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-polished/00712.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00713.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00714.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00715.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00716.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00128.png",
+          "ms": 230
+        },
+        {
+          "file": "b1-polished/00129.png",
+          "ms": 31
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-046-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00722.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00723.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-0.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-1.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-2.png",
+          "ms": 25
+        },
+        {
+          "file": "b1-polished/00726.png",
+          "ms": 34
+        },
+        {
+          "file": "wardrobe/b1-neutral.png",
+          "ms": 145
+        }
+      ]
+    },
+    "b2-rise-phone": {
+      "label": "Встаёт",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 109
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00729.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00730.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00731.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00732.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 62
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 68
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 72
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 88
+        }
+      ]
+    },
+    "rest-out-phone": {
+      "label": "Застёгивает сценический костюм",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-1.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-015-2.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00464.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-016-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-017-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00468.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00469.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-1.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-019-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00471.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-020-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00472.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00473.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-022-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 85
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 112
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 126
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00490.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-032-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00491.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-033-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00492.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-034-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00493.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-035-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 95
+        },
+        {
+          "file": "b2-ivory-mesh/00101.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-01.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-02.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-03.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-04.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00102.png",
+          "ms": 82
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-040-0.png",
+          "ms": 81
+        },
+        {
+          "file": "b2-ivory-mesh/00103.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-042-0.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/00104.png",
+          "ms": 167
+        },
+        {
+          "file": "b1-polished/00127.png",
+          "ms": 30
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-043-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-polished/00712.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00713.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00714.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00715.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00716.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00128.png",
+          "ms": 230
+        },
+        {
+          "file": "b1-polished/00129.png",
+          "ms": 31
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-046-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00722.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00723.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-0.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-1.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-2.png",
+          "ms": 25
+        },
+        {
+          "file": "b1-polished/00726.png",
+          "ms": 34
+        },
+        {
+          "file": "wardrobe/b1-neutral.png",
+          "ms": 145
+        }
+      ]
+    },
+    "b2-dress": {
+      "label": "Возвращает сценический костюм",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 95
+        },
+        {
+          "file": "b2-ivory-mesh/00101.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-01.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-02.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-03.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-04.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00102.png",
+          "ms": 82
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-040-0.png",
+          "ms": 81
+        },
+        {
+          "file": "b2-ivory-mesh/00103.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-042-0.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/00104.png",
+          "ms": 167
+        },
+        {
+          "file": "b1-polished/00127.png",
+          "ms": 30
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-043-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-polished/00712.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00713.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00714.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00715.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00716.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00128.png",
+          "ms": 230
+        },
+        {
+          "file": "b1-polished/00129.png",
+          "ms": 31
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-046-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00722.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00723.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-0.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-1.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-2.png",
+          "ms": 25
+        },
+        {
+          "file": "b1-polished/00726.png",
+          "ms": 34
+        },
+        {
+          "file": "wardrobe/b1-neutral.png",
+          "ms": 145
+        }
+      ]
+    },
+    "rest-out-standing": {
+      "label": "Возвращает сценический костюм",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 95
+        },
+        {
+          "file": "b2-ivory-mesh/00101.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-038-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-01.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-02.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-03.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-grasp-04.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00102.png",
+          "ms": 82
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-040-0.png",
+          "ms": 81
+        },
+        {
+          "file": "b2-ivory-mesh/00103.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-042-0.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/00104.png",
+          "ms": 167
+        },
+        {
+          "file": "b1-polished/00127.png",
+          "ms": 30
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-043-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-polished/00712.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00713.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00714.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00715.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00716.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-polished/00128.png",
+          "ms": 230
+        },
+        {
+          "file": "b1-polished/00129.png",
+          "ms": 31
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-046-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00722.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00723.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-0.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-1.png",
+          "ms": 25
+        },
+        {
+          "file": "wardrobe/smooth-motion/body-047-2.png",
+          "ms": 25
+        },
+        {
+          "file": "b1-polished/00726.png",
+          "ms": 34
+        },
+        {
+          "file": "wardrobe/b1-neutral.png",
+          "ms": 145
+        }
+      ]
+    },
+    "b2-settle": {
+      "label": "Садится",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00494.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00495.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00496.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-060-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00497.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-061-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 140
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 150
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 56
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-067-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 113
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-073-0.png",
+          "ms": 53
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-075-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 85
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-079-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-080-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00513.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-081-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00514.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00515.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-083-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-085-0.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/00517.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-086-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00518.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-087-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 71
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 72
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 71
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-089-0.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00523.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00524.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 157
+        }
+      ]
+    },
+    "b2-work": {
+      "label": "Два щелчка",
+      "loopFrom": 17,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00774.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-303-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00770.png",
+          "ms": 38
+        },
+        {
+          "file": "b2-ivory-mesh/00775.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00776.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00771.png",
+          "ms": 38
+        },
+        {
+          "file": "b2-ivory-mesh/00777.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00778.png",
+          "ms": 41
+        },
+        {
+          "file": "b2-ivory-mesh/00772.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00779.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-304-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00780.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-305-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00773.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-widen-0.png",
+          "ms": 41
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-widen-1.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00781.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-0-1.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-0-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-0-3.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-0-4.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-0-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-1-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-1-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-1-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-1-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-1-4.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-1-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-1-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-2-0.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-2-1.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-2-2.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-2-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-2-4.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-2-5.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-2-6.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-3-0.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-3-1.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-3-2.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-3-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-3-4.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-4-0.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-4-1.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-4-2.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-4-3.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-4-4.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-0.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-1.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-2.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-3.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-4.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-5.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-6.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-7.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-5-8.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/00807.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-6-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-6-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-6-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-6-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-6-4.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-6-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-6-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-7-0.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-7-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-7-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-7-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-7-4.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-7-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-7-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-7-7.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-8-0.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-8-1.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-8-2.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-8-3.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-8-4.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-0.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-1.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-2.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-3.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-4.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-5.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-6.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-7.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-8.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-9-9.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/00827.png",
+          "ms": 39
+        }
+      ],
+      "exitAfter": [
+        57,
+        88
+      ],
+      "exitRoutes": [
+        {
+          "after": 57,
+          "scene": "b2-work-out-first"
+        },
+        {
+          "after": 88,
+          "scene": "b2-work-out"
+        }
+      ]
+    },
+    "b2-work-out": {
+      "label": "Убирает плеть",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00827.png",
+          "ms": 88
+        },
+        {
+          "file": "b2-ivory-mesh/00828.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-092-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00832.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-093-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00829.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00833.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00834.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00830.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00835.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-094-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00836.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-095-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00831.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-096-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00837.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00838.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 136
+        }
+      ]
+    },
+    "smoke": {
+      "label": "Отдых в белом купальнике",
+      "loopFrom": 59,
+      "outroFrom": 3,
+      "frames": [
+        {
+          "file": "wardrobe/b1-neutral.png",
+          "ms": 110
+        },
+        {
+          "file": "b1-polished/00110.png",
+          "ms": 155
+        },
+        {
+          "file": "b1-polished/00111.png",
+          "ms": 270
+        },
+        {
+          "file": "b1-polished/00112.png",
+          "ms": 315
+        },
+        {
+          "file": "b2-ivory-mesh/00104.png",
+          "ms": 160
+        },
+        {
+          "file": "b2-ivory-mesh/00105.png",
+          "ms": 205
+        },
+        {
+          "file": "b2-ivory-mesh/00106.png",
+          "ms": 112
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-fall-01.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-fall-02.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-fall-03.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-fall-04.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-fall-05.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-fall-06.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-fall-07.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/floor-2d-skirt-fall-08.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00108.png",
+          "ms": 100
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 105
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00494.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00495.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00496.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-060-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00497.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-061-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 140
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 150
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 56
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-067-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 113
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-073-0.png",
+          "ms": 53
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-075-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 85
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-079-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-080-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00513.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-081-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00514.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00515.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-083-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-085-0.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/00517.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-086-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00518.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-087-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 71
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 72
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 71
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-089-0.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00523.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00524.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 157
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 111
+        },
+        {
+          "file": "b2-ivory-mesh/00289.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00290.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-114-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00001.png",
+          "ms": 445
+        },
+        {
+          "file": "b2-ivory-mesh/00002.png",
+          "ms": 495
+        },
+        {
+          "file": "b2-ivory-mesh/00003.png",
+          "ms": 584
+        },
+        {
+          "file": "b2-ivory-mesh/00004.png",
+          "ms": 249
+        },
+        {
+          "file": "b2-ivory-mesh/00316.png",
+          "ms": 109
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-124-0.png",
+          "ms": 109
+        },
+        {
+          "file": "b2-ivory-mesh/00005.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-seated-0.png",
+          "ms": 117
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-seated-1.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00006.png",
+          "ms": 541
+        },
+        {
+          "file": "b2-ivory-mesh/00007.png",
+          "ms": 506
+        },
+        {
+          "file": "b2-ivory-mesh/00008.png",
+          "ms": 56
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-130-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/00338.png",
+          "ms": 47
+        },
+        {
+          "file": "b2-ivory-mesh/00339.png",
+          "ms": 47
+        },
+        {
+          "file": "b2-ivory-mesh/00340.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-133-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00341.png",
+          "ms": 47
+        },
+        {
+          "file": "b2-ivory-mesh/00342.png",
+          "ms": 47
+        },
+        {
+          "file": "b2-ivory-mesh/00343.png",
+          "ms": 47
+        },
+        {
+          "file": "b2-ivory-mesh/00344.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-137-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 235
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 117
+        },
+        {
+          "file": "b2-ivory-mesh/00008.png",
+          "ms": 304
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-5.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-pivot-1.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-pivot-0.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/00006.png",
+          "ms": 105
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-pivot-0.png",
+          "ms": 105
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-pivot-1.png",
+          "ms": 105
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-4.png",
+          "ms": 133
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-1.png",
+          "ms": 227
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-0.png",
+          "ms": 158
+        },
+        {
+          "file": "b2-ivory-mesh/00010.png",
+          "ms": 505
+        },
+        {
+          "file": "b2-ivory-mesh/00010.png",
+          "ms": 449
+        },
+        {
+          "file": "b2-ivory-mesh/00010.png",
+          "ms": 110
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-0.png",
+          "ms": 137
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-1.png",
+          "ms": 147
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-2.png",
+          "ms": 148
+        },
+        {
+          "file": "b2-ivory-mesh/00012.png",
+          "ms": 101
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-157-0.png",
+          "ms": 101
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-3.png",
+          "ms": 134
+        },
+        {
+          "file": "b2-ivory-mesh/00013.png",
+          "ms": 263
+        },
+        {
+          "file": "b2-ivory-mesh/00013.png",
+          "ms": 104
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-3.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-2.png",
+          "ms": 116
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-1.png",
+          "ms": 126
+        },
+        {
+          "file": "b2-ivory-mesh/00006.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-pivot-0.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-pivot-1.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-4.png",
+          "ms": 123
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-ground-5.png",
+          "ms": 110
+        },
+        {
+          "file": "b2-ivory-mesh/00008.png",
+          "ms": 152
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 189
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 89
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-anchor-0.png",
+          "ms": 153
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-anchor-3.png",
+          "ms": 179
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-180-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-180-1.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-1.png",
+          "ms": 69
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-2.png",
+          "ms": 72
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-3.png",
+          "ms": 82
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-anchor-1.png",
+          "ms": 252
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-anchor-2.png",
+          "ms": 809
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-anchor-1.png",
+          "ms": 217
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-3.png",
+          "ms": 75
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-2.png",
+          "ms": 78
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-1.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-197-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-197-1.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-0.png",
+          "ms": 79
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-anchor-3.png",
+          "ms": 202
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-phone-anchor-0.png",
+          "ms": 177
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 134
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00464.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-016-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 66
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-017-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00468.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00469.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-018-1.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-019-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00471.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-020-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00472.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00473.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-022-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-003-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 85
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-005-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-006-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 112
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-009-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 126
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00490.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-032-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00491.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-033-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00492.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-034-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00493.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-035-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 118
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 127
+        },
+        {
+          "file": "b2-ivory-mesh/00041.png",
+          "ms": 379
+        },
+        {
+          "file": "b2-ivory-mesh/00042.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-208-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-208-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-208-2.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/00563.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00564.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00565.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00566.png",
+          "ms": 87
+        },
+        {
+          "file": "b2-ivory-mesh/00568.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00569.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00570.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00043.png",
+          "ms": 448
+        },
+        {
+          "file": "b2-ivory-mesh/00044.png",
+          "ms": 620
+        },
+        {
+          "file": "b2-ivory-mesh/00045.png",
+          "ms": 561
+        },
+        {
+          "file": "b2-ivory-mesh/00046.png",
+          "ms": 435
+        },
+        {
+          "file": "b2-ivory-mesh/00047.png",
+          "ms": 34
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-219-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-219-1.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-219-2.png",
+          "ms": 34
+        },
+        {
+          "file": "b2-ivory-mesh/00596.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00597.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00598.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00599.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00600.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00601.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00602.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00603.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00604.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00048.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-220-0.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-220-1.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-220-2.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00605.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-221-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00606.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/00607.png",
+          "ms": 48
+        },
+        {
+          "file": "b2-ivory-mesh/00608.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/00609.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-225-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00610.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-226-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00611.png",
+          "ms": 48
+        },
+        {
+          "file": "b2-ivory-mesh/00612.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-228-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00613.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-229-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 235
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00614.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-230-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-230-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00051.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-231-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-231-1.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/00616.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-232-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00617.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/00618.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-234-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00619.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/00620.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-236-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00052.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-237-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-237-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-237-2.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00621.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-238-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00622.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00623.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-239-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00624.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-240-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00625.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00626.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-241-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00053.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-242-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-242-1.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-242-2.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00627.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-243-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00628.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-244-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00629.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-245-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00630.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-246-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00631.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-247-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00632.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-248-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00054.png",
+          "ms": 582
+        },
+        {
+          "file": "b2-ivory-mesh/00055.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-251-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-251-1.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-251-2.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/00633.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00634.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-252-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00635.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00636.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-253-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00637.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00638.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00639.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-254-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00640.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00056.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-255-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-255-1.png",
+          "ms": 34
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-255-2.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00641.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00642.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-256-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00643.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00644.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00645.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-257-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00646.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00647.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00648.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-258-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00649.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00057.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-259-0.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-259-1.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-259-2.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/00650.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00651.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00652.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00653.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00654.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00655.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00656.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00058.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-260-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-260-1.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-260-2.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00657.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/00658.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-262-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00659.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-263-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00660.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-264-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00661.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-265-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00662.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-266-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 218
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 91
+        },
+        {
+          "file": "b2-ivory-mesh/00071.png",
+          "ms": 318
+        },
+        {
+          "file": "b2-ivory-mesh/00072.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-271-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-271-1.png",
+          "ms": 31
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-271-2.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/00664.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00665.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00666.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00667.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00073.png",
+          "ms": 317
+        },
+        {
+          "file": "b2-ivory-mesh/00074.png",
+          "ms": 451
+        },
+        {
+          "file": "b2-ivory-mesh/00075.png",
+          "ms": 372
+        },
+        {
+          "file": "b2-ivory-mesh/00076.png",
+          "ms": 354
+        },
+        {
+          "file": "b2-ivory-mesh/00077.png",
+          "ms": 384
+        },
+        {
+          "file": "b2-ivory-mesh/00078.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-282-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-282-1.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00668.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-283-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-283-1.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-283-2.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00671.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-284-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00672.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-285-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 165
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 92
+        },
+        {
+          "file": "b2-ivory-mesh/00061.png",
+          "ms": 226
+        },
+        {
+          "file": "b2-ivory-mesh/00679.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00062.png",
+          "ms": 288
+        },
+        {
+          "file": "b2-ivory-mesh/00063.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00686.png",
+          "ms": 34
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-292-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00688.png",
+          "ms": 34
+        },
+        {
+          "file": "b2-ivory-mesh/00168.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/00169.png",
+          "ms": 64
+        },
+        {
+          "file": "b2-ivory-mesh/00170.png",
+          "ms": 62
+        },
+        {
+          "file": "b2-ivory-mesh/00171.png",
+          "ms": 59
+        },
+        {
+          "file": "b2-ivory-mesh/00064.png",
+          "ms": 110
+        },
+        {
+          "file": "b2-ivory-mesh/00173.png",
+          "ms": 68
+        },
+        {
+          "file": "b2-ivory-mesh/00174.png",
+          "ms": 65
+        },
+        {
+          "file": "b2-ivory-mesh/00175.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00689.png",
+          "ms": 38
+        },
+        {
+          "file": "b2-ivory-mesh/00690.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00067.png",
+          "ms": 39
+        },
+        {
+          "file": "b2-ivory-mesh/00691.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00692.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00693.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00068.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-301-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00694.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00695.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00696.png",
+          "ms": 35
+        },
+        {
+          "file": "b2-ivory-mesh/00697.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00698.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 165
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00494.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00495.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00163.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00496.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-060-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00497.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-061-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00166.png",
+          "ms": 140
+        },
+        {
+          "file": "b2-ivory-mesh/00164.png",
+          "ms": 150
+        },
+        {
+          "file": "b2-ivory-mesh/00167.png",
+          "ms": 56
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-067-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-3.png",
+          "ms": 114
+        },
+        {
+          "file": "b2-ivory-mesh/00038.png",
+          "ms": 113
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-2.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-073-0.png",
+          "ms": 53
+        },
+        {
+          "file": "b2-ivory-mesh/00036.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-075-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-1.png",
+          "ms": 85
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-2d-stand-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-079-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b2-ivory-mesh/00035.png",
+          "ms": 30
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-080-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b2-ivory-mesh/00513.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-081-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00514.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/00515.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-083-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00034.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-085-0.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/00517.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-086-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00518.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-087-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00033.png",
+          "ms": 71
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-1.png",
+          "ms": 72
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-rise-0.png",
+          "ms": 71
+        },
+        {
+          "file": "b2-ivory-mesh/00032.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-089-0.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00523.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00524.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00031.png",
+          "ms": 157
+        }
+      ],
+      "exitRoutes": [
+        {
+          "after": 59,
+          "scene": "smoke-out"
+        },
+        {
+          "after": 85,
+          "scene": "smoke-out"
+        },
+        {
+          "after": 86,
+          "scene": "smoke-out"
+        },
+        {
+          "after": 98,
+          "scene": "rest-out-cross"
+        },
+        {
+          "after": 99,
+          "scene": "rest-out-cross"
+        },
+        {
+          "after": 106,
+          "scene": "rest-out-knee"
+        },
+        {
+          "after": 107,
+          "scene": "rest-out-knee"
+        },
+        {
+          "after": 117,
+          "scene": "smoke-out"
+        },
+        {
+          "after": 118,
+          "scene": "smoke-out"
+        },
+        {
+          "after": 138,
+          "scene": "smoke-out"
+        },
+        {
+          "after": 139,
+          "scene": "smoke-out"
+        },
+        {
+          "after": 181,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 182,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 230,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 231,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 334,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 335,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 361,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 362,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 391,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 392,
+          "scene": "rest-out-standing"
+        },
+        {
+          "after": 433,
+          "scene": "smoke-out"
+        }
+      ],
+      "finishGestures": [
+        {
+          "from": 60,
+          "until": 85
+        },
+        {
+          "from": 87,
+          "until": 98
+        },
+        {
+          "from": 100,
+          "until": 106
+        },
+        {
+          "from": 108,
+          "until": 117
+        },
+        {
+          "from": 119,
+          "until": 138
+        },
+        {
+          "from": 140,
+          "until": 181
+        },
+        {
+          "from": 183,
+          "until": 230
+        },
+        {
+          "from": 232,
+          "until": 334
+        },
+        {
+          "from": 336,
+          "until": 361
+        },
+        {
+          "from": 363,
+          "until": 391
+        },
+        {
+          "from": 393,
+          "until": 433
+        }
+      ]
+    },
+    "b2-work-out-first": {
+      "label": "Убирает плеть после первого взмаха",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00807.png",
+          "ms": 51
+        },
+        {
+          "file": "b2-ivory-mesh/00827.png",
+          "ms": 88
+        },
+        {
+          "file": "b2-ivory-mesh/00828.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-092-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00832.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-093-0.png",
+          "ms": 32
+        },
+        {
+          "file": "b2-ivory-mesh/00829.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00833.png",
+          "ms": 45
+        },
+        {
+          "file": "b2-ivory-mesh/00834.png",
+          "ms": 46
+        },
+        {
+          "file": "b2-ivory-mesh/00830.png",
+          "ms": 44
+        },
+        {
+          "file": "b2-ivory-mesh/00835.png",
+          "ms": 26
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-094-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00836.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-095-0.png",
+          "ms": 25
+        },
+        {
+          "file": "b2-ivory-mesh/00831.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-096-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b2-ivory-mesh/00837.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00838.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 136
+        }
+      ]
+    },
+    "b2-work-arc": {
+      "label": "Высокая дуга",
+      "loopFrom": 17,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00774.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-303-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00770.png",
+          "ms": 38
+        },
+        {
+          "file": "b2-ivory-mesh/00775.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00776.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00771.png",
+          "ms": 38
+        },
+        {
+          "file": "b2-ivory-mesh/00777.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00778.png",
+          "ms": 41
+        },
+        {
+          "file": "b2-ivory-mesh/00772.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00779.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-304-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00780.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-305-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00773.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-widen-0.png",
+          "ms": 41
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-widen-1.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00781.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-0-1.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-0-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-0-3.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-0-4.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-0-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-1-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-1-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-1-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-1-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-1-4.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-1-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-1-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-2-0.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-2-1.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-2-2.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-2-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-2-4.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-2-5.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-2-6.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-3-0.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-3-1.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-3-2.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-3-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-3-4.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-4-0.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-4-1.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-4-2.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-4-3.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-4-4.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-0.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-1.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-2.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-3.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-4.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-5.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-6.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-7.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-5-8.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/00807.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-6-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-6-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-6-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-6-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-6-4.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-6-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-6-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-7-0.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-7-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-7-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-7-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-7-4.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-7-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-7-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-7-7.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-8-0.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-8-1.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-8-2.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-8-3.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-8-4.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-0.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-1.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-2.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-3.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-4.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-5.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-6.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-7.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-8.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-arc-9-9.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/00827.png",
+          "ms": 39
+        }
+      ],
+      "exitAfter": [
+        57,
+        88
+      ],
+      "exitRoutes": [
+        {
+          "after": 57,
+          "scene": "b2-work-out-first"
+        },
+        {
+          "after": 88,
+          "scene": "b2-work-out"
+        }
+      ]
+    },
+    "b2-work-sweep": {
+      "label": "Низкий взмах",
+      "loopFrom": 17,
+      "frames": [
+        {
+          "file": "b2-ivory-mesh/00090.png",
+          "ms": 43
+        },
+        {
+          "file": "b2-ivory-mesh/00774.png",
+          "ms": 28
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-303-0.png",
+          "ms": 27
+        },
+        {
+          "file": "b2-ivory-mesh/00770.png",
+          "ms": 38
+        },
+        {
+          "file": "b2-ivory-mesh/00775.png",
+          "ms": 36
+        },
+        {
+          "file": "b2-ivory-mesh/00776.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00771.png",
+          "ms": 38
+        },
+        {
+          "file": "b2-ivory-mesh/00777.png",
+          "ms": 40
+        },
+        {
+          "file": "b2-ivory-mesh/00778.png",
+          "ms": 41
+        },
+        {
+          "file": "b2-ivory-mesh/00772.png",
+          "ms": 37
+        },
+        {
+          "file": "b2-ivory-mesh/00779.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-304-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/00780.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/body-305-0.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/00773.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-widen-0.png",
+          "ms": 41
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/drawn-widen-1.png",
+          "ms": 42
+        },
+        {
+          "file": "b2-ivory-mesh/00781.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-0-1.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-0-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-0-3.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-0-4.png",
+          "ms": 24
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-0-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-1-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-1-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-1-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-1-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-1-4.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-1-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-1-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-2-0.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-2-1.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-2-2.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-2-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-2-4.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-2-5.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-2-6.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-3-0.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-3-1.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-3-2.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-3-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-3-4.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-4-0.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-4-1.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-4-2.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-4-3.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-4-4.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-0.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-1.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-2.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-3.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-4.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-5.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-6.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-7.png",
+          "ms": 17
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-5-8.png",
+          "ms": 18
+        },
+        {
+          "file": "b2-ivory-mesh/00807.png",
+          "ms": 52
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-6-0.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-6-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-6-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-6-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-6-4.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-6-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-6-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-7-0.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-7-1.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-7-2.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-7-3.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-7-4.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-7-5.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-7-6.png",
+          "ms": 23
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-7-7.png",
+          "ms": 22
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-8-0.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-8-1.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-8-2.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-8-3.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-8-4.png",
+          "ms": 21
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-0.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-1.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-2.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-3.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-4.png",
+          "ms": 20
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-5.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-6.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-7.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-8.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/smooth-motion/b2-work-sweep-9-9.png",
+          "ms": 19
+        },
+        {
+          "file": "b2-ivory-mesh/00827.png",
+          "ms": 39
+        }
+      ],
+      "exitAfter": [
+        57,
+        88
+      ],
+      "exitRoutes": [
+        {
+          "after": 57,
+          "scene": "b2-work-out-first"
+        },
+        {
+          "after": 88,
+          "scene": "b2-work-out"
+        }
+      ]
+    }
+  },
+  "lookFrames": [
+    "b2-ivory-mesh/00090.png"
+  ],
+  "swimsuitFramePrefix": "b2-ivory-mesh/"
+}

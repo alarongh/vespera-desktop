@@ -1,2 +1,2 @@
 @echo off
-start "" "%~dp0release\Vespera.exe"
+start "" "%~dp0Vespera.exe"

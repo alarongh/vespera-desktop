@@ -1,0 +1,13 @@
+{
+  "typingHoldMs": 810,
+  "scrollHoldMs": 625,
+  "smokeAfterMs": 5500,
+  "windowWidth": 320,
+  "danceMinEvents": 12,
+  "danceMinTypingMs": 1200,
+  "typingInAllApps": true,
+  "cursorLookHoldMs": 820,
+  "swimsuitTypingHoldMs": 1120,
+  "swimsuitCursorLookHoldMs": 1170,
+  "animationSpeed": 1.0
+}

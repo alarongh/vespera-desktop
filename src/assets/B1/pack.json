@@ -1,0 +1,6771 @@
+{
+  "scenes": {
+    "idle": {
+      "label": "Спокойное ожидание",
+      "frames": [
+        {
+          "file": "stage-rest/sprite-000.png",
+          "ms": 67
+        },
+        {
+          "file": "b1-crisp/between-0001-0.png",
+          "ms": 67
+        },
+        {
+          "file": "b1-crisp/between-0001-1.png",
+          "ms": 67
+        },
+        {
+          "file": "stage-rest/sprite-001.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0002-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0002-1.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-002.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0003-0.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0003-1.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-003.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0004-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0004-1.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-004.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0005-0.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-005.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0006-0.png",
+          "ms": 38
+        },
+        {
+          "file": "stage-rest/sprite-006.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0007-0.png",
+          "ms": 38
+        },
+        {
+          "file": "stage-rest/sprite-007.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0008-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0008-1.png",
+          "ms": 50
+        },
+        {
+          "file": "stage-rest/sprite-008.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0009-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0009-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-009.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0010-0.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0010-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-010.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0011-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0011-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-011.png",
+          "ms": 48
+        },
+        {
+          "file": "b1-crisp/between-0012-0.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0012-1.png",
+          "ms": 48
+        },
+        {
+          "file": "stage-rest/sprite-012.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0013-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0013-1.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-013.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0014-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0014-1.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-014.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0015-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0015-1.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-015.png",
+          "ms": 146
+        },
+        {
+          "file": "stage-rest/sprite-016.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0018-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0018-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-017.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0019-0.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0019-1.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-018.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0020-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0020-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-019.png",
+          "ms": 60
+        },
+        {
+          "file": "b1-crisp/between-0021-0.png",
+          "ms": 60
+        },
+        {
+          "file": "b1-crisp/between-0021-1.png",
+          "ms": 60
+        },
+        {
+          "file": "stage-rest/sprite-020.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0022-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0022-1.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-021.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0023-0.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0023-1.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-022.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0024-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0024-1.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-023.png",
+          "ms": 53
+        },
+        {
+          "file": "b1-crisp/between-0025-0.png",
+          "ms": 54
+        },
+        {
+          "file": "b1-crisp/between-0025-1.png",
+          "ms": 53
+        },
+        {
+          "file": "stage-rest/sprite-024.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0026-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0026-1.png",
+          "ms": 34
+        },
+        {
+          "file": "stage-rest/sprite-025.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0027-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0027-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-026.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0028-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0028-1.png",
+          "ms": 34
+        },
+        {
+          "file": "stage-rest/sprite-027.png",
+          "ms": 77
+        },
+        {
+          "file": "b1-crisp/between-0029-0.png",
+          "ms": 77
+        },
+        {
+          "file": "b1-crisp/between-0029-1.png",
+          "ms": 77
+        },
+        {
+          "file": "stage-rest/sprite-028.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0030-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0030-1.png",
+          "ms": 50
+        },
+        {
+          "file": "stage-rest/sprite-029.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0031-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0031-1.png",
+          "ms": 50
+        },
+        {
+          "file": "stage-rest/sprite-030.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0032-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0032-1.png",
+          "ms": 50
+        }
+      ],
+      "loopFrom": 0
+    },
+    "work": {
+      "label": "Щелчок плетью",
+      "frames": [
+        {
+          "file": "expanded/work/0000.png",
+          "ms": 85
+        },
+        {
+          "file": "expanded/work/0001.png",
+          "ms": 85
+        },
+        {
+          "file": "expanded/work/0002.png",
+          "ms": 90
+        },
+        {
+          "file": "expanded/work/0003.png",
+          "ms": 90
+        },
+        {
+          "file": "expanded/work/0004.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0039-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/work/0005.png",
+          "ms": 74
+        },
+        {
+          "file": "expanded/work/0006.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0041-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/work/0007.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0042-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/work/0008.png",
+          "ms": 74
+        },
+        {
+          "file": "expanded/work/0009.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0044-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/work/0010.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0045-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0011.png",
+          "ms": 84
+        },
+        {
+          "file": "expanded/work/0012.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0047-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0013.png",
+          "ms": 90
+        },
+        {
+          "file": "expanded/work/0014.png",
+          "ms": 90
+        },
+        {
+          "file": "expanded/work/0015.png",
+          "ms": 90
+        },
+        {
+          "file": "expanded/work/0016.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0054-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0017.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0055-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0018.png",
+          "ms": 84
+        },
+        {
+          "file": "expanded/work/0019.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0057-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0020.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0058-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0021.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0059-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work/0022.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0060-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work/0021.png",
+          "ms": 80
+        },
+        {
+          "file": "expanded/work/0026.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0062-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work/0025.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0063-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work/0026.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0064-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0064-1.png",
+          "ms": 30
+        },
+        {
+          "file": "expanded/work/0027.png",
+          "ms": 91
+        },
+        {
+          "file": "expanded/work/0027.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/work/0029.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0067-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0067-1.png",
+          "ms": 30
+        },
+        {
+          "file": "expanded/work/0030.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0068-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0068-1.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/work/0031.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0069-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0069-1.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/work/0032.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0070-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0070-1.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/work/0033.png",
+          "ms": 100
+        },
+        {
+          "file": "expanded/work/0034.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0073-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0073-1.png",
+          "ms": 33
+        },
+        {
+          "file": "expanded/work/0035.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0074-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0036.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0075-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0037.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0076-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0038.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0077-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0039.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0078-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0040.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0079-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0041.png",
+          "ms": 83
+        },
+        {
+          "file": "expanded/work/0042.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0080-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0043.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0081-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0044.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded/work/0045.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0083-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0046.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0084-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0047.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0085-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0048.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0086-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0049.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0087-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0050.png",
+          "ms": 84
+        },
+        {
+          "file": "expanded/work/0052.png",
+          "ms": 84
+        },
+        {
+          "file": "expanded/work/0052.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0089-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0053.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0090-0.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/work/0054.png",
+          "ms": 86
+        },
+        {
+          "file": "expanded/work/0055.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0092-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0092-1.png",
+          "ms": 29
+        },
+        {
+          "file": "expanded/work/0056.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0093-0.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/work/0057.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0094-0.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/work/0058.png",
+          "ms": 85
+        },
+        {
+          "file": "expanded/work/0059.png",
+          "ms": 85
+        },
+        {
+          "file": "expanded/work/0060.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0097-0.png",
+          "ms": 35
+        },
+        {
+          "file": "expanded/work/0061.png",
+          "ms": 70
+        },
+        {
+          "file": "expanded/work/0062.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0099-0.png",
+          "ms": 35
+        },
+        {
+          "file": "expanded/work/0063.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0100-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0064.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0101-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0065.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0102-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0066.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0103-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0067.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0104-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0068.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0105-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0069.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0106-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0070.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0107-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0071.png",
+          "ms": 81
+        },
+        {
+          "file": "expanded/work/0072.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0108-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0073.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0109-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0074.png",
+          "ms": 84
+        },
+        {
+          "file": "expanded/work/0075.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0111-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0076.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0112-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0077.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0113-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work/0078.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0114-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work/0077.png",
+          "ms": 80
+        },
+        {
+          "file": "expanded/work/0082.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0116-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work/0081.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0117-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work/0082.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0118-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0118-1.png",
+          "ms": 30
+        },
+        {
+          "file": "expanded/work/0083.png",
+          "ms": 91
+        },
+        {
+          "file": "expanded/work/0083.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/work/0085.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0121-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0121-1.png",
+          "ms": 30
+        },
+        {
+          "file": "expanded/work/0086.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0122-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0122-1.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/work/0087.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0123-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0123-1.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/work/0088.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0124-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0124-1.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/work/0089.png",
+          "ms": 100
+        },
+        {
+          "file": "expanded/work/0090.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0127-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0127-1.png",
+          "ms": 33
+        },
+        {
+          "file": "expanded/work/0091.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0128-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0092.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0129-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0093.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0130-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0094.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0131-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0095.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0132-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0096.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0133-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0097.png",
+          "ms": 83
+        },
+        {
+          "file": "expanded/work/0098.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0134-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0099.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0135-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0100.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded/work/0101.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0137-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0102.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0138-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0103.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0139-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work/0104.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0140-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0105.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0141-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0106.png",
+          "ms": 84
+        },
+        {
+          "file": "expanded/work/0108.png",
+          "ms": 84
+        },
+        {
+          "file": "expanded/work/0108.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0143-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/work/0109.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0144-0.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/work/0110.png",
+          "ms": 86
+        },
+        {
+          "file": "expanded/work/0111.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0146-0.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0146-1.png",
+          "ms": 29
+        },
+        {
+          "file": "expanded/work/0112.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0147-0.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/work/0113.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0148-0.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/work/0114.png",
+          "ms": 85
+        },
+        {
+          "file": "expanded/work/0115.png",
+          "ms": 85
+        },
+        {
+          "file": "expanded/work/0116.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0151-0.png",
+          "ms": 35
+        },
+        {
+          "file": "expanded/work/0117.png",
+          "ms": 70
+        },
+        {
+          "file": "expanded/work/0118.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0153-0.png",
+          "ms": 35
+        },
+        {
+          "file": "expanded/work/0119.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0154-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0120.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0155-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0121.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0156-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0122.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0157-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0123.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0158-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0124.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0159-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0125.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0160-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0126.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0161-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/work/0127.png",
+          "ms": 81
+        }
+      ],
+      "loopFrom": 22,
+      "exitAfter": [
+        74,
+        127,
+        179,
+        232
+      ]
+    },
+    "wave": {
+      "label": "Приветствие",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "wave/00.png",
+          "ms": 48
+        },
+        {
+          "file": "b1-crisp/between-0162-0.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0162-1.png",
+          "ms": 48
+        },
+        {
+          "file": "expanded/wave/000-01.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/wave/000-02.png",
+          "ms": 93
+        },
+        {
+          "file": "expanded/wave/000-03.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0168-0.png",
+          "ms": 46
+        },
+        {
+          "file": "wave/01.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0169-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0169-1.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/wave/001-01.png",
+          "ms": 79
+        },
+        {
+          "file": "expanded/wave/001-02.png",
+          "ms": 80
+        },
+        {
+          "file": "expanded/wave/001-03.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0172-0.png",
+          "ms": 39
+        },
+        {
+          "file": "wave/02.png",
+          "ms": 139
+        },
+        {
+          "file": "expanded/wave/002-01.png",
+          "ms": 90
+        },
+        {
+          "file": "expanded/wave/002-02.png",
+          "ms": 91
+        },
+        {
+          "file": "expanded/wave/002-03.png",
+          "ms": 90
+        },
+        {
+          "file": "wave/03.png",
+          "ms": 77
+        },
+        {
+          "file": "b1-crisp/between-0181-0.png",
+          "ms": 77
+        },
+        {
+          "file": "b1-crisp/between-0181-1.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded/wave/003-01.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0182-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0182-1.png",
+          "ms": 50
+        },
+        {
+          "file": "expanded/wave/003-02.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0183-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0183-1.png",
+          "ms": 50
+        },
+        {
+          "file": "expanded/wave/003-03.png",
+          "ms": 150
+        }
+      ]
+    },
+    "dance": {
+      "label": "Танцевальный прыжок",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "dance/00.png",
+          "ms": 143
+        },
+        {
+          "file": "expanded/dance/000-01.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/dance/000-02.png",
+          "ms": 93
+        },
+        {
+          "file": "expanded/dance/000-03.png",
+          "ms": 92
+        },
+        {
+          "file": "dance/01.png",
+          "ms": 88
+        },
+        {
+          "file": "expanded/dance/001-01.png",
+          "ms": 86
+        },
+        {
+          "file": "expanded/dance/001-02.png",
+          "ms": 86
+        },
+        {
+          "file": "dance/02.png",
+          "ms": 95
+        },
+        {
+          "file": "expanded/dance/002-01.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/dance/002-02.png",
+          "ms": 93
+        },
+        {
+          "file": "dance/03.png",
+          "ms": 102
+        },
+        {
+          "file": "expanded/dance/003-01.png",
+          "ms": 66
+        },
+        {
+          "file": "expanded/dance/003-02.png",
+          "ms": 66
+        },
+        {
+          "file": "expanded/dance/003-03.png",
+          "ms": 66
+        },
+        {
+          "file": "dance/04.png",
+          "ms": 204
+        },
+        {
+          "file": "expanded/dance/004-01.png",
+          "ms": 132
+        },
+        {
+          "file": "expanded/dance/004-02.png",
+          "ms": 132
+        },
+        {
+          "file": "expanded/dance/004-03.png",
+          "ms": 132
+        }
+      ]
+    },
+    "inspect": {
+      "label": "Проверка результата",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "inspect/00.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0213-0.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0213-1.png",
+          "ms": 44
+        },
+        {
+          "file": "expanded/inspect/000-01.png",
+          "ms": 86
+        },
+        {
+          "file": "expanded/inspect/000-02.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0215-0.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/inspect/000-03.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0216-0.png",
+          "ms": 43
+        },
+        {
+          "file": "inspect/01.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0217-0.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0217-1.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/inspect/001-01.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0218-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/inspect/001-02.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0219-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/inspect/001-03.png",
+          "ms": 75
+        },
+        {
+          "file": "inspect/02.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0221-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0221-1.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/inspect/002-01.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0222-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/inspect/002-02.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0223-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/inspect/002-03.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0224-0.png",
+          "ms": 39
+        },
+        {
+          "file": "inspect/03.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0225-0.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0225-1.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/inspect/003-01.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0226-0.png",
+          "ms": 42
+        },
+        {
+          "file": "expanded/inspect/003-02.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0227-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/inspect/003-03.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0228-0.png",
+          "ms": 42
+        },
+        {
+          "file": "inspect/04.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0229-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0229-1.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/inspect/004-01.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0230-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/inspect/004-02.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0231-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/inspect/004-03.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0232-0.png",
+          "ms": 39
+        },
+        {
+          "file": "inspect/05.png",
+          "ms": 77
+        },
+        {
+          "file": "b1-crisp/between-0233-0.png",
+          "ms": 77
+        },
+        {
+          "file": "b1-crisp/between-0233-1.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded/inspect/005-01.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0234-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0234-1.png",
+          "ms": 50
+        },
+        {
+          "file": "expanded/inspect/005-02.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0235-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0235-1.png",
+          "ms": 50
+        },
+        {
+          "file": "expanded/inspect/005-03.png",
+          "ms": 150
+        }
+      ]
+    },
+    "failed": {
+      "label": "Реакция на сбой",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "failed/00.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0236-0.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0236-1.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/failed/000-01.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0237-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/failed/000-02.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0238-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/failed/000-03.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0239-0.png",
+          "ms": 37
+        },
+        {
+          "file": "failed/01.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0240-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0240-1.png",
+          "ms": 33
+        },
+        {
+          "file": "expanded/failed/001-01.png",
+          "ms": 96
+        },
+        {
+          "file": "expanded/failed/001-02.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0243-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0243-1.png",
+          "ms": 32
+        },
+        {
+          "file": "failed/02.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0244-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0244-1.png",
+          "ms": 34
+        },
+        {
+          "file": "expanded/failed/002-01.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0245-0.png",
+          "ms": 33
+        },
+        {
+          "file": "expanded/failed/002-02.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0246-0.png",
+          "ms": 33
+        },
+        {
+          "file": "expanded/failed/002-03.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0247-0.png",
+          "ms": 33
+        },
+        {
+          "file": "failed/03.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0248-0.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0248-1.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/failed/003-01.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0249-0.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/failed/003-02.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0250-0.png",
+          "ms": 36
+        },
+        {
+          "file": "expanded/failed/003-03.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0251-0.png",
+          "ms": 37
+        },
+        {
+          "file": "failed/04.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/failed/004-01.png",
+          "ms": 89
+        },
+        {
+          "file": "expanded/failed/004-02.png",
+          "ms": 89
+        },
+        {
+          "file": "failed/05.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0258-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0258-1.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/failed/005-01.png",
+          "ms": 79
+        },
+        {
+          "file": "expanded/failed/005-02.png",
+          "ms": 80
+        },
+        {
+          "file": "expanded/failed/005-03.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0261-0.png",
+          "ms": 39
+        },
+        {
+          "file": "failed/06.png",
+          "ms": 66
+        },
+        {
+          "file": "b1-crisp/between-0263-0.png",
+          "ms": 67
+        },
+        {
+          "file": "expanded/failed/006-01.png",
+          "ms": 86
+        },
+        {
+          "file": "expanded/failed/006-02.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0265-0.png",
+          "ms": 43
+        },
+        {
+          "file": "expanded/failed/006-03.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0266-0.png",
+          "ms": 43
+        },
+        {
+          "file": "failed/07.png",
+          "ms": 73
+        },
+        {
+          "file": "b1-crisp/between-0267-0.png",
+          "ms": 72
+        },
+        {
+          "file": "b1-crisp/between-0267-1.png",
+          "ms": 73
+        },
+        {
+          "file": "expanded/failed/007-01.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0268-0.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0268-1.png",
+          "ms": 47
+        },
+        {
+          "file": "expanded/failed/007-02.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0269-0.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0269-1.png",
+          "ms": 47
+        },
+        {
+          "file": "expanded/failed/007-03.png",
+          "ms": 141
+        }
+      ]
+    },
+    "step-right": {
+      "label": "Бег вправо",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "step-right/00.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-right/000-01.png",
+          "ms": 118
+        },
+        {
+          "file": "step-right/01.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-right/001-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-right/001-02.png",
+          "ms": 59
+        },
+        {
+          "file": "step-right/02.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-right/002-01.png",
+          "ms": 118
+        },
+        {
+          "file": "step-right/03.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-right/003-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-right/003-02.png",
+          "ms": 59
+        },
+        {
+          "file": "step-right/04.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-right/004-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-right/004-02.png",
+          "ms": 59
+        },
+        {
+          "file": "step-right/05.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-right/005-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-right/005-02.png",
+          "ms": 59
+        },
+        {
+          "file": "step-right/06.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-right/006-01.png",
+          "ms": 118
+        },
+        {
+          "file": "step-right/07.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-right/007-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-right/007-02.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0285-0.png",
+          "ms": 29
+        }
+      ]
+    },
+    "step-left": {
+      "label": "Бег влево",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "step-left/00.png",
+          "ms": 150
+        },
+        {
+          "file": "step-left/01.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-left/001-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-left/001-02.png",
+          "ms": 59
+        },
+        {
+          "file": "step-left/02.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-left/002-01.png",
+          "ms": 118
+        },
+        {
+          "file": "step-left/03.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-left/003-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-left/003-02.png",
+          "ms": 59
+        },
+        {
+          "file": "step-left/04.png",
+          "ms": 150
+        },
+        {
+          "file": "step-left/05.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-left/005-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-left/005-02.png",
+          "ms": 59
+        },
+        {
+          "file": "step-left/06.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/left0.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/left1.png",
+          "ms": 50
+        },
+        {
+          "file": "step-left/07.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-left/007-01.png",
+          "ms": 59
+        },
+        {
+          "file": "expanded/step-left/007-02.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0299-0.png",
+          "ms": 29
+        }
+      ]
+    },
+    "idol-dance": {
+      "label": "Танец айдола",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "idol-dance/00.png",
+          "ms": 150
+        },
+        {
+          "file": "expanded/idol-dance/000-01.png",
+          "ms": 290
+        },
+        {
+          "file": "idol-dance/01.png",
+          "ms": 99
+        },
+        {
+          "file": "expanded/idol-dance/001-01.png",
+          "ms": 96
+        },
+        {
+          "file": "expanded/idol-dance/001-02.png",
+          "ms": 95
+        },
+        {
+          "file": "idol-dance/02.png",
+          "ms": 95
+        },
+        {
+          "file": "expanded/idol-dance/002-01.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/idol-dance/002-02.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0314-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0314-1.png",
+          "ms": 31
+        },
+        {
+          "file": "idol-dance/03.png",
+          "ms": 119
+        },
+        {
+          "file": "expanded/idol-dance/003-01.png",
+          "ms": 231
+        },
+        {
+          "file": "idol-dance/04.png",
+          "ms": 88
+        },
+        {
+          "file": "expanded/idol-dance/004-01.png",
+          "ms": 86
+        },
+        {
+          "file": "expanded/idol-dance/004-02.png",
+          "ms": 86
+        },
+        {
+          "file": "idol-dance/05.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/idol-dance/005-01.png",
+          "ms": 89
+        },
+        {
+          "file": "expanded/idol-dance/005-02.png",
+          "ms": 89
+        },
+        {
+          "file": "idol-dance/06.png",
+          "ms": 112
+        },
+        {
+          "file": "expanded/idol-dance/006-01.png",
+          "ms": 73
+        },
+        {
+          "file": "expanded/idol-dance/006-02.png",
+          "ms": 72
+        },
+        {
+          "file": "expanded/idol-dance/006-03.png",
+          "ms": 73
+        },
+        {
+          "file": "idol-dance/07.png",
+          "ms": 116
+        },
+        {
+          "file": "expanded/idol-dance/007-01.png",
+          "ms": 112
+        },
+        {
+          "file": "expanded/idol-dance/007-02.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0338-0.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0338-1.png",
+          "ms": 37
+        },
+        {
+          "file": "idol-dance/08.png",
+          "ms": 95
+        },
+        {
+          "file": "expanded/idol-dance/008-01.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/idol-dance/008-02.png",
+          "ms": 93
+        },
+        {
+          "file": "idol-dance/09.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0345-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0345-1.png",
+          "ms": 34
+        },
+        {
+          "file": "expanded/idol-dance/009-01.png",
+          "ms": 66
+        },
+        {
+          "file": "expanded/idol-dance/009-02.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0347-0.png",
+          "ms": 33
+        },
+        {
+          "file": "expanded/idol-dance/009-03.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0348-0.png",
+          "ms": 33
+        },
+        {
+          "file": "idol-dance/10.png",
+          "ms": 143
+        },
+        {
+          "file": "expanded/idol-dance/010-01.png",
+          "ms": 138
+        },
+        {
+          "file": "expanded/idol-dance/010-02.png",
+          "ms": 139
+        },
+        {
+          "file": "idol-dance/11.png",
+          "ms": 194
+        },
+        {
+          "file": "expanded/idol-dance/011-01.png",
+          "ms": 376
+        },
+        {
+          "file": "idol-dance/12.png",
+          "ms": 129
+        },
+        {
+          "file": "expanded/idol-dance/012-01.png",
+          "ms": 251
+        },
+        {
+          "file": "idol-dance/13.png",
+          "ms": 170
+        },
+        {
+          "file": "expanded/idol-dance/013-01.png",
+          "ms": 165
+        },
+        {
+          "file": "expanded/idol-dance/013-02.png",
+          "ms": 165
+        },
+        {
+          "file": "idol-dance/14.png",
+          "ms": 143
+        },
+        {
+          "file": "expanded/idol-dance/014-01.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/idol-dance/014-02.png",
+          "ms": 93
+        },
+        {
+          "file": "expanded/idol-dance/014-03.png",
+          "ms": 92
+        },
+        {
+          "file": "idol-dance/15.png",
+          "ms": 180
+        },
+        {
+          "file": "expanded/idol-dance/015-01.png",
+          "ms": 117
+        },
+        {
+          "file": "expanded/idol-dance/015-02.png",
+          "ms": 116
+        },
+        {
+          "file": "expanded/idol-dance/015-03.png",
+          "ms": 117
+        },
+        {
+          "file": "idol-dance/16.png",
+          "ms": 265
+        },
+        {
+          "file": "expanded/idol-dance/016-01.png",
+          "ms": 172
+        },
+        {
+          "file": "expanded/idol-dance/016-02.png",
+          "ms": 171
+        },
+        {
+          "file": "expanded/idol-dance/016-03.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0391-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0391-1.png",
+          "ms": 57
+        },
+        {
+          "file": "idol-dance/17.png",
+          "ms": 590
+        }
+      ]
+    },
+    "idol-dance-shuffle": {
+      "label": "Танец с синкопами",
+      "frames": [
+        {
+          "file": "expanded-keys/shuffle-a/00.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0392-0.png",
+          "ms": 56
+        },
+        {
+          "file": "b1-crisp/between-0392-1.png",
+          "ms": 57
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/000-01.png",
+          "ms": 330
+        },
+        {
+          "file": "expanded-keys/shuffle-a/01.png",
+          "ms": 370
+        },
+        {
+          "file": "expanded-keys/shuffle-a/02.png",
+          "ms": 51
+        },
+        {
+          "file": "b1-crisp/between-0397-0.png",
+          "ms": 51
+        },
+        {
+          "file": "b1-crisp/between-0397-1.png",
+          "ms": 51
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/002-01.png",
+          "ms": 297
+        },
+        {
+          "file": "expanded-keys/shuffle-a/03.png",
+          "ms": 145
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/003-01.png",
+          "ms": 140
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/003-02.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0404-0.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0404-1.png",
+          "ms": 47
+        },
+        {
+          "file": "expanded-keys/shuffle-a/04.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0405-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0405-1.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/004-01.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0406-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/004-02.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0407-0.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/004-03.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0408-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded-keys/shuffle-a/05.png",
+          "ms": 470
+        },
+        {
+          "file": "expanded-keys/shuffle-a/06.png",
+          "ms": 139
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/006-01.png",
+          "ms": 271
+        },
+        {
+          "file": "expanded-keys/shuffle-a/07.png",
+          "ms": 119
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/007-01.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/007-02.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/007-03.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0419-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded-keys/shuffle-a/08.png",
+          "ms": 143
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/008-01.png",
+          "ms": 277
+        },
+        {
+          "file": "expanded-keys/shuffle-a/09.png",
+          "ms": 184
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/009-01.png",
+          "ms": 178
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/009-02.png",
+          "ms": 178
+        },
+        {
+          "file": "expanded-keys/shuffle-a/10.png",
+          "ms": 170
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/010-01.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0432-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0432-1.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/010-02.png",
+          "ms": 110
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/010-03.png",
+          "ms": 110
+        },
+        {
+          "file": "expanded-keys/shuffle-a/11.png",
+          "ms": 190
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/011-01.png",
+          "ms": 123
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/011-02.png",
+          "ms": 124
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/011-03.png",
+          "ms": 123
+        },
+        {
+          "file": "expanded-keys/shuffle-b/00.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0445-0.png",
+          "ms": 56
+        },
+        {
+          "file": "b1-crisp/between-0445-1.png",
+          "ms": 57
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/012-01.png",
+          "ms": 330
+        },
+        {
+          "file": "expanded-keys/shuffle-b/01.png",
+          "ms": 126
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/013-01.png",
+          "ms": 81
+        },
+        {
+          "file": "b1-crisp/between-0450-0.png",
+          "ms": 82
+        },
+        {
+          "file": "b1-crisp/between-0450-1.png",
+          "ms": 81
+        },
+        {
+          "file": "expanded-keys/shuffle-b/02.png",
+          "ms": 153
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/014-01.png",
+          "ms": 99
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/014-02.png",
+          "ms": 99
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/014-03.png",
+          "ms": 99
+        },
+        {
+          "file": "expanded-keys/shuffle-b/03.png",
+          "ms": 145
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/015-01.png",
+          "ms": 140
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/015-02.png",
+          "ms": 140
+        },
+        {
+          "file": "expanded-keys/shuffle-b/04.png",
+          "ms": 124
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/016-01.png",
+          "ms": 80
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/016-02.png",
+          "ms": 81
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/016-03.png",
+          "ms": 80
+        },
+        {
+          "file": "expanded-keys/shuffle-b/05.png",
+          "ms": 160
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/017-01.png",
+          "ms": 103
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/017-02.png",
+          "ms": 104
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/017-03.png",
+          "ms": 103
+        },
+        {
+          "file": "expanded-keys/shuffle-b/06.png",
+          "ms": 139
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/018-01.png",
+          "ms": 136
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/018-02.png",
+          "ms": 135
+        },
+        {
+          "file": "expanded-keys/shuffle-b/07.png",
+          "ms": 119
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/019-01.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/019-02.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/019-03.png",
+          "ms": 77
+        },
+        {
+          "file": "expanded-keys/shuffle-b/08.png",
+          "ms": 143
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/020-01.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/020-02.png",
+          "ms": 93
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/020-03.png",
+          "ms": 92
+        },
+        {
+          "file": "expanded-keys/shuffle-b/09.png",
+          "ms": 61
+        },
+        {
+          "file": "b1-crisp/between-0497-0.png",
+          "ms": 62
+        },
+        {
+          "file": "b1-crisp/between-0497-1.png",
+          "ms": 61
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/021-01.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0498-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0498-1.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/021-02.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0499-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0499-1.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/021-03.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0500-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0500-1.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded-keys/shuffle-b/10.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0501-0.png",
+          "ms": 56
+        },
+        {
+          "file": "b1-crisp/between-0501-1.png",
+          "ms": 57
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/022-01.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0502-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0502-1.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/022-02.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0503-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0503-1.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/idol-dance-shuffle/022-03.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0504-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0504-1.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded-keys/shuffle-b/11.png",
+          "ms": 560
+        }
+      ],
+      "loopFrom": 0
+    },
+    "idol-dance-turn": {
+      "label": "Танец с разворотами",
+      "frames": [
+        {
+          "file": "expanded-keys/turn-a/00.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0505-0.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0505-1.png",
+          "ms": 58
+        },
+        {
+          "file": "expanded/idol-dance-turn/000-01.png",
+          "ms": 168
+        },
+        {
+          "file": "expanded/idol-dance-turn/000-02.png",
+          "ms": 56
+        },
+        {
+          "file": "b1-crisp/between-0508-0.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0508-1.png",
+          "ms": 56
+        },
+        {
+          "file": "expanded-keys/turn-a/01.png",
+          "ms": 53
+        },
+        {
+          "file": "b1-crisp/between-0509-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b1-crisp/between-0509-1.png",
+          "ms": 53
+        },
+        {
+          "file": "expanded/idol-dance-turn/001-01.png",
+          "ms": 102
+        },
+        {
+          "file": "expanded/idol-dance-turn/001-02.png",
+          "ms": 103
+        },
+        {
+          "file": "expanded/idol-dance-turn/001-03.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0514-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0514-1.png",
+          "ms": 34
+        },
+        {
+          "file": "expanded-keys/turn-a/02.png",
+          "ms": 146
+        },
+        {
+          "file": "expanded/idol-dance-turn/002-01.png",
+          "ms": 95
+        },
+        {
+          "file": "expanded/idol-dance-turn/002-02.png",
+          "ms": 94
+        },
+        {
+          "file": "expanded/idol-dance-turn/002-03.png",
+          "ms": 95
+        },
+        {
+          "file": "expanded-keys/turn-a/03.png",
+          "ms": 139
+        },
+        {
+          "file": "expanded/idol-dance-turn/003-01.png",
+          "ms": 90
+        },
+        {
+          "file": "expanded/idol-dance-turn/003-02.png",
+          "ms": 91
+        },
+        {
+          "file": "expanded/idol-dance-turn/003-03.png",
+          "ms": 90
+        },
+        {
+          "file": "expanded-keys/turn-a/04.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0531-0.png",
+          "ms": 48
+        },
+        {
+          "file": "b1-crisp/between-0531-1.png",
+          "ms": 49
+        },
+        {
+          "file": "expanded/idol-dance-turn/004-01.png",
+          "ms": 95
+        },
+        {
+          "file": "expanded/idol-dance-turn/004-02.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0534-0.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0534-1.png",
+          "ms": 31
+        },
+        {
+          "file": "expanded/idol-dance-turn/004-03.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0535-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0535-1.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded-keys/turn-a/05.png",
+          "ms": 156
+        },
+        {
+          "file": "expanded/idol-dance-turn/005-01.png",
+          "ms": 304
+        },
+        {
+          "file": "expanded-keys/turn-a/06.png",
+          "ms": 143
+        },
+        {
+          "file": "expanded/idol-dance-turn/006-01.png",
+          "ms": 277
+        },
+        {
+          "file": "expanded-keys/turn-a/07.png",
+          "ms": 146
+        },
+        {
+          "file": "expanded/idol-dance-turn/007-01.png",
+          "ms": 142
+        },
+        {
+          "file": "expanded/idol-dance-turn/007-02.png",
+          "ms": 142
+        },
+        {
+          "file": "expanded-keys/turn-a/08.png",
+          "ms": 163
+        },
+        {
+          "file": "expanded/idol-dance-turn/008-01.png",
+          "ms": 158
+        },
+        {
+          "file": "expanded/idol-dance-turn/008-02.png",
+          "ms": 159
+        },
+        {
+          "file": "expanded-keys/turn-a/09.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0556-0.png",
+          "ms": 56
+        },
+        {
+          "file": "b1-crisp/between-0556-1.png",
+          "ms": 57
+        },
+        {
+          "file": "expanded/idol-dance-turn/009-01.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0557-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0557-1.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded/idol-dance-turn/009-02.png",
+          "ms": 110
+        },
+        {
+          "file": "expanded/idol-dance-turn/009-03.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0560-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0560-1.png",
+          "ms": 37
+        },
+        {
+          "file": "expanded-keys/turn-a/10.png",
+          "ms": 189
+        },
+        {
+          "file": "expanded/idol-dance-turn/010-01.png",
+          "ms": 122
+        },
+        {
+          "file": "expanded/idol-dance-turn/010-02.png",
+          "ms": 122
+        },
+        {
+          "file": "expanded/idol-dance-turn/010-03.png",
+          "ms": 122
+        },
+        {
+          "file": "expanded-keys/turn-a/11.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0569-0.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0569-1.png",
+          "ms": 70
+        },
+        {
+          "file": "expanded/idol-dance-turn/011-01.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0570-0.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0570-1.png",
+          "ms": 45
+        },
+        {
+          "file": "expanded/idol-dance-turn/011-02.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0571-0.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0571-1.png",
+          "ms": 46
+        },
+        {
+          "file": "expanded/idol-dance-turn/011-03.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0572-0.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0572-1.png",
+          "ms": 45
+        },
+        {
+          "file": "expanded-keys/turn-b/00.png",
+          "ms": 173
+        },
+        {
+          "file": "expanded/idol-dance-turn/012-01.png",
+          "ms": 337
+        },
+        {
+          "file": "expanded-keys/turn-b/01.png",
+          "ms": 53
+        },
+        {
+          "file": "b1-crisp/between-0577-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b1-crisp/between-0577-1.png",
+          "ms": 53
+        },
+        {
+          "file": "expanded/idol-dance-turn/013-01.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0578-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0578-1.png",
+          "ms": 34
+        },
+        {
+          "file": "expanded/idol-dance-turn/013-02.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0579-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0579-1.png",
+          "ms": 34
+        },
+        {
+          "file": "expanded/idol-dance-turn/013-03.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0580-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0580-1.png",
+          "ms": 34
+        },
+        {
+          "file": "expanded-keys/turn-b/02.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0581-0.png",
+          "ms": 48
+        },
+        {
+          "file": "b1-crisp/between-0581-1.png",
+          "ms": 49
+        },
+        {
+          "file": "expanded/idol-dance-turn/014-01.png",
+          "ms": 95
+        },
+        {
+          "file": "expanded/idol-dance-turn/014-02.png",
+          "ms": 94
+        },
+        {
+          "file": "expanded/idol-dance-turn/014-03.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0586-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0586-1.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded-keys/turn-b/03.png",
+          "ms": 139
+        },
+        {
+          "file": "expanded/idol-dance-turn/015-01.png",
+          "ms": 136
+        },
+        {
+          "file": "expanded/idol-dance-turn/015-02.png",
+          "ms": 135
+        },
+        {
+          "file": "expanded-keys/turn-b/04.png",
+          "ms": 146
+        },
+        {
+          "file": "expanded/idol-dance-turn/016-01.png",
+          "ms": 284
+        },
+        {
+          "file": "expanded-keys/turn-b/05.png",
+          "ms": 156
+        },
+        {
+          "file": "expanded/idol-dance-turn/017-01.png",
+          "ms": 101
+        },
+        {
+          "file": "expanded/idol-dance-turn/017-02.png",
+          "ms": 102
+        },
+        {
+          "file": "expanded/idol-dance-turn/017-03.png",
+          "ms": 101
+        },
+        {
+          "file": "expanded-keys/turn-b/06.png",
+          "ms": 48
+        },
+        {
+          "file": "b1-crisp/between-0605-0.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0605-1.png",
+          "ms": 48
+        },
+        {
+          "file": "expanded/idol-dance-turn/018-01.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0606-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0606-1.png",
+          "ms": 31
+        },
+        {
+          "file": "expanded/idol-dance-turn/018-02.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0607-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0607-1.png",
+          "ms": 31
+        },
+        {
+          "file": "expanded/idol-dance-turn/018-03.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0608-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0608-1.png",
+          "ms": 31
+        },
+        {
+          "file": "expanded-keys/turn-b/07.png",
+          "ms": 146
+        },
+        {
+          "file": "expanded/idol-dance-turn/019-01.png",
+          "ms": 142
+        },
+        {
+          "file": "expanded/idol-dance-turn/019-02.png",
+          "ms": 142
+        },
+        {
+          "file": "expanded-keys/turn-b/08.png",
+          "ms": 163
+        },
+        {
+          "file": "expanded/idol-dance-turn/020-01.png",
+          "ms": 317
+        },
+        {
+          "file": "expanded-keys/turn-b/09.png",
+          "ms": 170
+        },
+        {
+          "file": "expanded/idol-dance-turn/021-01.png",
+          "ms": 110
+        },
+        {
+          "file": "expanded/idol-dance-turn/021-02.png",
+          "ms": 110
+        },
+        {
+          "file": "expanded/idol-dance-turn/021-03.png",
+          "ms": 110
+        },
+        {
+          "file": "expanded-keys/turn-b/10.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0627-0.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0627-1.png",
+          "ms": 63
+        },
+        {
+          "file": "expanded/idol-dance-turn/022-01.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0628-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0628-1.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/idol-dance-turn/022-02.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0629-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0629-1.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded/idol-dance-turn/022-03.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0630-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0630-1.png",
+          "ms": 41
+        },
+        {
+          "file": "expanded-keys/turn-b/11.png",
+          "ms": 620
+        }
+      ],
+      "loopFrom": 0
+    },
+    "step-up": {
+      "label": "Бег вверх",
+      "frames": [
+        {
+          "file": "expanded-keys/vertical/00.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up/000-01.png",
+          "ms": 100
+        },
+        {
+          "file": "expanded-keys/vertical/01.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up/001-01.png",
+          "ms": 112
+        },
+        {
+          "file": "expanded-keys/vertical/02.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up/002-01.png",
+          "ms": 94
+        },
+        {
+          "file": "expanded-keys/vertical/03.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up/003-01.png",
+          "ms": 108
+        },
+        {
+          "file": "expanded-keys/vertical/04.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up/004-01.png",
+          "ms": 104
+        },
+        {
+          "file": "expanded-keys/vertical/05.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up/005-01.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0641-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0641-1.png",
+          "ms": 37
+        }
+      ],
+      "loopFrom": 0
+    },
+    "step-down": {
+      "label": "Бег вниз",
+      "frames": [
+        {
+          "file": "expanded-keys/vertical/06.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down/000-01.png",
+          "ms": 100
+        },
+        {
+          "file": "expanded-keys/vertical/07.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down/001-01.png",
+          "ms": 112
+        },
+        {
+          "file": "expanded-keys/vertical/08.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down/002-01.png",
+          "ms": 94
+        },
+        {
+          "file": "expanded-keys/vertical/09.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down/003-01.png",
+          "ms": 108
+        },
+        {
+          "file": "expanded-keys/vertical/10.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down/004-01.png",
+          "ms": 104
+        },
+        {
+          "file": "expanded-keys/vertical/11.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down/005-01.png",
+          "ms": 110
+        }
+      ],
+      "loopFrom": 0
+    },
+    "step-up-left": {
+      "label": "Бег вверх-влево",
+      "frames": [
+        {
+          "file": "expanded-keys/updiag/00.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-left/000-01.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0654-0.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0654-1.png",
+          "ms": 33
+        },
+        {
+          "file": "expanded-keys/updiag/01.png",
+          "ms": 144
+        },
+        {
+          "file": "expanded-keys/updiag/02.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-left/002-01.png",
+          "ms": 94
+        },
+        {
+          "file": "expanded-keys/updiag/03.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-left/003-01.png",
+          "ms": 108
+        },
+        {
+          "file": "expanded-keys/updiag/04.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-left/004-01.png",
+          "ms": 104
+        },
+        {
+          "file": "expanded-keys/updiag/05.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-left/005-01.png",
+          "ms": 110
+        }
+      ],
+      "loopFrom": 0
+    },
+    "step-up-right": {
+      "label": "Бег вверх-вправо",
+      "frames": [
+        {
+          "file": "expanded-keys/updiag/06.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-right/000-01.png",
+          "ms": 100
+        },
+        {
+          "file": "expanded-keys/updiag/07.png",
+          "ms": 144
+        },
+        {
+          "file": "expanded-keys/updiag/08.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-right/002-01.png",
+          "ms": 94
+        },
+        {
+          "file": "expanded-keys/updiag/09.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-right/003-01.png",
+          "ms": 108
+        },
+        {
+          "file": "expanded-keys/updiag/10.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-right/004-01.png",
+          "ms": 104
+        },
+        {
+          "file": "expanded-keys/updiag/11.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-up-right/005-01.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0675-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0675-1.png",
+          "ms": 37
+        }
+      ],
+      "loopFrom": 0
+    },
+    "step-down-left": {
+      "label": "Бег вниз-влево",
+      "frames": [
+        {
+          "file": "expanded-keys/downdiag/00.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-left/000-01.png",
+          "ms": 100
+        },
+        {
+          "file": "expanded-keys/downdiag/01.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-left/001-01.png",
+          "ms": 112
+        },
+        {
+          "file": "expanded-keys/downdiag/02.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-left/002-01.png",
+          "ms": 94
+        },
+        {
+          "file": "expanded-keys/downdiag/03.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-left/003-01.png",
+          "ms": 108
+        },
+        {
+          "file": "expanded-keys/downdiag/04.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-left/004-01.png",
+          "ms": 104
+        },
+        {
+          "file": "expanded-keys/downdiag/05.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-left/005-01.png",
+          "ms": 110
+        }
+      ],
+      "loopFrom": 0
+    },
+    "step-down-right": {
+      "label": "Бег вниз-вправо",
+      "frames": [
+        {
+          "file": "expanded-keys/downdiag/06.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-right/000-01.png",
+          "ms": 100
+        },
+        {
+          "file": "expanded-keys/downdiag/07.png",
+          "ms": 144
+        },
+        {
+          "file": "expanded-keys/downdiag/08.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-right/002-01.png",
+          "ms": 94
+        },
+        {
+          "file": "expanded-keys/downdiag/09.png",
+          "ms": 140
+        },
+        {
+          "file": "expanded-keys/downdiag/10.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-right/004-01.png",
+          "ms": 104
+        },
+        {
+          "file": "expanded-keys/downdiag/11.png",
+          "ms": 32
+        },
+        {
+          "file": "expanded/step-down-right/005-01.png",
+          "ms": 110
+        }
+      ],
+      "loopFrom": 0
+    },
+    "work-out": {
+      "label": "Убрать плеть",
+      "frames": [
+        {
+          "file": "expanded/work-out/0000.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0700-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0700-1.png",
+          "ms": 30
+        },
+        {
+          "file": "expanded/work-out/0001.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0701-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0701-1.png",
+          "ms": 30
+        },
+        {
+          "file": "expanded/work-out/0002.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0702-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work-out/0003.png",
+          "ms": 80
+        },
+        {
+          "file": "expanded/work-out/0004.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0704-0.png",
+          "ms": 40
+        },
+        {
+          "file": "expanded/work-out/0005.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0705-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work-out/0006.png",
+          "ms": 76
+        },
+        {
+          "file": "expanded/work-out/0007.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0707-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work-out/0008.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0708-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work-out/0009.png",
+          "ms": 76
+        },
+        {
+          "file": "expanded/work-out/0010.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0710-0.png",
+          "ms": 39
+        },
+        {
+          "file": "expanded/work-out/0011.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0711-0.png",
+          "ms": 35
+        },
+        {
+          "file": "expanded/work-out/0012.png",
+          "ms": 70
+        },
+        {
+          "file": "expanded/work-out/0013.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0713-0.png",
+          "ms": 35
+        },
+        {
+          "file": "expanded/work-out/0014.png",
+          "ms": 83
+        },
+        {
+          "file": "expanded/work-out/0015.png",
+          "ms": 84
+        },
+        {
+          "file": "expanded/work-out/0016.png",
+          "ms": 83
+        }
+      ],
+      "loopFrom": 0
+    },
+    "idol-dance-stage": {
+      "label": "Танец — акценты и поклон",
+      "frames": [
+        {
+          "file": "b1-polished/00130.png",
+          "ms": 100
+        },
+        {
+          "file": "b1-polished/00185.png",
+          "ms": 210
+        },
+        {
+          "file": "b1-polished/00186.png",
+          "ms": 300
+        },
+        {
+          "file": "b1-polished/00187.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0722-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-polished/00268.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-polished/00269.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-polished/00270.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-polished/00271.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-polished/00272.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-polished/00273.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-polished/00188.png",
+          "ms": 220
+        },
+        {
+          "file": "b1-polished/00189.png",
+          "ms": 330
+        },
+        {
+          "file": "b1-polished/00190.png",
+          "ms": 315
+        },
+        {
+          "file": "b1-polished/00191.png",
+          "ms": 220
+        },
+        {
+          "file": "b1-polished/00192.png",
+          "ms": 320
+        },
+        {
+          "file": "b1-polished/00193.png",
+          "ms": 247
+        },
+        {
+          "file": "b1-polished/00195.png",
+          "ms": 220
+        },
+        {
+          "file": "b1-polished/00196.png",
+          "ms": 215
+        },
+        {
+          "file": "b1-polished/00197.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/dance-a0.png",
+          "ms": 59
+        },
+        {
+          "file": "b1-crisp/dance-a1.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-polished/00198.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/dance-b0.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/dance-b1.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-polished/00182.png",
+          "ms": 102
+        },
+        {
+          "file": "b1-polished/00181.png",
+          "ms": 118
+        },
+        {
+          "file": "b1-polished/00180.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-polished/00274.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-polished/00275.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-polished/00276.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-polished/00199.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0743-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-polished/00277.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00278.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00279.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-polished/00280.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00281.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00180.png",
+          "ms": 115
+        },
+        {
+          "file": "b1-polished/00181.png",
+          "ms": 112
+        },
+        {
+          "file": "b1-polished/00182.png",
+          "ms": 120
+        },
+        {
+          "file": "b1-polished/00183.png",
+          "ms": 155
+        },
+        {
+          "file": "b1-polished/00202.png",
+          "ms": 255
+        },
+        {
+          "file": "b1-polished/00203.png",
+          "ms": 74
+        },
+        {
+          "file": "b1-polished/00282.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00283.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-polished/00284.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-polished/00285.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00286.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-polished/00287.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-polished/00130.png",
+          "ms": 110
+        }
+      ],
+      "loopFrom": 0
+    },
+    "stage-smoke": {
+      "label": "Перекур Весперы",
+      "loopFrom": 83,
+      "outroFrom": 42,
+      "frames": [
+        {
+          "file": "stage-rest/sprite-000.png",
+          "ms": 34
+        },
+        {
+          "file": "stage-rest/before-chair-00.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/before-chair-01.png",
+          "ms": 30
+        },
+        {
+          "file": "stage-rest/before-chair-02.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-155.png",
+          "ms": 86
+        },
+        {
+          "file": "stage-rest/sprite-154.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0756-0.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-153.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0757-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0757-1.png",
+          "ms": 29
+        },
+        {
+          "file": "stage-rest/sprite-152.png",
+          "ms": 86
+        },
+        {
+          "file": "stage-rest/sprite-151.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0759-0.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-150.png",
+          "ms": 88
+        },
+        {
+          "file": "stage-rest/sprite-149.png",
+          "ms": 100
+        },
+        {
+          "file": "b1-crisp/between-0762-0.png",
+          "ms": 100
+        },
+        {
+          "file": "b1-crisp/between-0762-1.png",
+          "ms": 100
+        },
+        {
+          "file": "stage-rest/sprite-148.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0763-0.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0763-1.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-147.png",
+          "ms": 93
+        },
+        {
+          "file": "stage-rest/sprite-146.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0766-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0766-1.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-145.png",
+          "ms": 95
+        },
+        {
+          "file": "stage-rest/sprite-144.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-143.png",
+          "ms": 62
+        },
+        {
+          "file": "stage-rest/sprite-142.png",
+          "ms": 65
+        },
+        {
+          "file": "stage-rest/sprite-142.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/chair-seam-00.png",
+          "ms": 41
+        },
+        {
+          "file": "stage-rest/chair-seam-01.png",
+          "ms": 41
+        },
+        {
+          "file": "stage-rest/sprite-031.png",
+          "ms": 163
+        },
+        {
+          "file": "stage-rest/sprite-032.png",
+          "ms": 106
+        },
+        {
+          "file": "stage-rest/sprite-033.png",
+          "ms": 105
+        },
+        {
+          "file": "stage-rest/sprite-034.png",
+          "ms": 106
+        },
+        {
+          "file": "stage-rest/sprite-035.png",
+          "ms": 470
+        },
+        {
+          "file": "stage-rest/sprite-036.png",
+          "ms": 440
+        },
+        {
+          "file": "stage-rest/sprite-037.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0783-0.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0783-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-038.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0784-0.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-039.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0785-0.png",
+          "ms": 36
+        },
+        {
+          "file": "stage-rest/sprite-040.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0786-0.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-041.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0787-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0787-1.png",
+          "ms": 33
+        },
+        {
+          "file": "stage-rest/sprite-042.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0788-0.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0788-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-043.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0789-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0789-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-044.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0790-0.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0790-1.png",
+          "ms": 36
+        },
+        {
+          "file": "stage-rest/sprite-045.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0791-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-046.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0792-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-047.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0793-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-048.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0794-0.png",
+          "ms": 41
+        },
+        {
+          "file": "stage-rest/sprite-049.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0795-0.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-050.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0796-0.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-051.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0797-0.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0797-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-052.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0798-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-053.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0799-0.png",
+          "ms": 36
+        },
+        {
+          "file": "stage-rest/sprite-054.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0800-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-055.png",
+          "ms": 126
+        },
+        {
+          "file": "stage-rest/sprite-056.png",
+          "ms": 81
+        },
+        {
+          "file": "stage-rest/sprite-057.png",
+          "ms": 82
+        },
+        {
+          "file": "stage-rest/sprite-058.png",
+          "ms": 81
+        },
+        {
+          "file": "stage-rest/sprite-059.png",
+          "ms": 76
+        },
+        {
+          "file": "b1-crisp/between-0806-0.png",
+          "ms": 76
+        },
+        {
+          "file": "b1-crisp/between-0806-1.png",
+          "ms": 76
+        },
+        {
+          "file": "stage-rest/sprite-060.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0807-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0807-1.png",
+          "ms": 49
+        },
+        {
+          "file": "stage-rest/sprite-061.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0808-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0808-1.png",
+          "ms": 49
+        },
+        {
+          "file": "stage-rest/sprite-062.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0809-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0809-1.png",
+          "ms": 49
+        },
+        {
+          "file": "stage-rest/sprite-063.png",
+          "ms": 61
+        },
+        {
+          "file": "b1-crisp/between-0810-0.png",
+          "ms": 62
+        },
+        {
+          "file": "b1-crisp/between-0810-1.png",
+          "ms": 61
+        },
+        {
+          "file": "stage-rest/sprite-064.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0811-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0811-1.png",
+          "ms": 40
+        },
+        {
+          "file": "stage-rest/sprite-065.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0812-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0812-1.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-066.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0813-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0813-1.png",
+          "ms": 40
+        },
+        {
+          "file": "stage-rest/sprite-067.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0814-0.png",
+          "ms": 56
+        },
+        {
+          "file": "b1-crisp/between-0814-1.png",
+          "ms": 57
+        },
+        {
+          "file": "stage-rest/sprite-068.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0815-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0815-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-069.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0816-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0816-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-070.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0817-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0817-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-071.png",
+          "ms": 108
+        },
+        {
+          "file": "b1-crisp/between-0818-0.png",
+          "ms": 107
+        },
+        {
+          "file": "b1-crisp/between-0818-1.png",
+          "ms": 108
+        },
+        {
+          "file": "stage-rest/sprite-072.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0819-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0819-1.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-073.png",
+          "ms": 209
+        },
+        {
+          "file": "stage-rest/sprite-074.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0822-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0822-1.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-075.png",
+          "ms": 91
+        },
+        {
+          "file": "b1-crisp/between-0823-0.png",
+          "ms": 90
+        },
+        {
+          "file": "b1-crisp/between-0823-1.png",
+          "ms": 91
+        },
+        {
+          "file": "stage-rest/sprite-076.png",
+          "ms": 59
+        },
+        {
+          "file": "b1-crisp/between-0824-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0824-1.png",
+          "ms": 59
+        },
+        {
+          "file": "stage-rest/sprite-077.png",
+          "ms": 59
+        },
+        {
+          "file": "b1-crisp/between-0825-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0825-1.png",
+          "ms": 59
+        },
+        {
+          "file": "stage-rest/sprite-078.png",
+          "ms": 59
+        },
+        {
+          "file": "b1-crisp/between-0826-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0826-1.png",
+          "ms": 59
+        },
+        {
+          "file": "stage-rest/sprite-079.png",
+          "ms": 68
+        },
+        {
+          "file": "b1-crisp/between-0827-0.png",
+          "ms": 68
+        },
+        {
+          "file": "b1-crisp/between-0827-1.png",
+          "ms": 68
+        },
+        {
+          "file": "stage-rest/sprite-080.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0828-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0828-1.png",
+          "ms": 44
+        },
+        {
+          "file": "stage-rest/sprite-081.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0829-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0829-1.png",
+          "ms": 44
+        },
+        {
+          "file": "stage-rest/sprite-082.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0830-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0830-1.png",
+          "ms": 44
+        },
+        {
+          "file": "stage-rest/sprite-083.png",
+          "ms": 54
+        },
+        {
+          "file": "b1-crisp/between-0831-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b1-crisp/between-0831-1.png",
+          "ms": 54
+        },
+        {
+          "file": "stage-rest/sprite-084.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0832-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0832-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-085.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0833-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0833-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-086.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0834-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0834-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-087.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0835-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0835-1.png",
+          "ms": 69
+        },
+        {
+          "file": "stage-rest/sprite-088.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0836-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0836-1.png",
+          "ms": 45
+        },
+        {
+          "file": "stage-rest/sprite-089.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0837-0.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0837-1.png",
+          "ms": 45
+        },
+        {
+          "file": "stage-rest/sprite-090.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0838-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0838-1.png",
+          "ms": 45
+        },
+        {
+          "file": "stage-rest/sprite-091.png",
+          "ms": 107
+        },
+        {
+          "file": "b1-crisp/between-0839-0.png",
+          "ms": 106
+        },
+        {
+          "file": "b1-crisp/between-0839-1.png",
+          "ms": 107
+        },
+        {
+          "file": "stage-rest/sprite-092.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0840-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0840-1.png",
+          "ms": 69
+        },
+        {
+          "file": "stage-rest/sprite-093.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0841-0.png",
+          "ms": 68
+        },
+        {
+          "file": "b1-crisp/between-0841-1.png",
+          "ms": 69
+        },
+        {
+          "file": "stage-rest/sprite-094.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0842-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0842-1.png",
+          "ms": 69
+        },
+        {
+          "file": "stage-rest/sprite-095.png",
+          "ms": 110
+        },
+        {
+          "file": "b1-crisp/between-0843-0.png",
+          "ms": 110
+        },
+        {
+          "file": "b1-crisp/between-0843-1.png",
+          "ms": 110
+        },
+        {
+          "file": "stage-rest/sprite-096.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0844-0.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0844-1.png",
+          "ms": 71
+        },
+        {
+          "file": "stage-rest/sprite-097.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0845-0.png",
+          "ms": 72
+        },
+        {
+          "file": "b1-crisp/between-0845-1.png",
+          "ms": 71
+        },
+        {
+          "file": "stage-rest/sprite-098.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0846-0.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0846-1.png",
+          "ms": 71
+        },
+        {
+          "file": "stage-rest/sprite-099.png",
+          "ms": 88
+        },
+        {
+          "file": "b1-crisp/between-0847-0.png",
+          "ms": 89
+        },
+        {
+          "file": "b1-crisp/between-0847-1.png",
+          "ms": 88
+        },
+        {
+          "file": "stage-rest/sprite-100.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0848-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0848-1.png",
+          "ms": 57
+        },
+        {
+          "file": "stage-rest/sprite-101.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0849-0.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0849-1.png",
+          "ms": 57
+        },
+        {
+          "file": "stage-rest/sprite-102.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0850-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0850-1.png",
+          "ms": 57
+        },
+        {
+          "file": "stage-rest/sprite-103.png",
+          "ms": 245
+        },
+        {
+          "file": "stage-rest/sprite-104.png",
+          "ms": 158
+        },
+        {
+          "file": "stage-rest/sprite-105.png",
+          "ms": 159
+        },
+        {
+          "file": "stage-rest/sprite-106.png",
+          "ms": 158
+        },
+        {
+          "file": "stage-rest/sprite-107.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0859-0.png",
+          "ms": 72
+        },
+        {
+          "file": "b1-crisp/between-0859-1.png",
+          "ms": 71
+        },
+        {
+          "file": "stage-rest/sprite-108.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0860-0.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0860-1.png",
+          "ms": 46
+        },
+        {
+          "file": "stage-rest/sprite-109.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0861-0.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0861-1.png",
+          "ms": 46
+        },
+        {
+          "file": "stage-rest/sprite-110.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0862-0.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0862-1.png",
+          "ms": 46
+        },
+        {
+          "file": "stage-rest/sprite-111.png",
+          "ms": 54
+        },
+        {
+          "file": "b1-crisp/between-0863-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b1-crisp/between-0863-1.png",
+          "ms": 54
+        },
+        {
+          "file": "stage-rest/sprite-112.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0864-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0864-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-113.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0865-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0865-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-114.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0866-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0866-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-115.png",
+          "ms": 65
+        },
+        {
+          "file": "b1-crisp/between-0867-0.png",
+          "ms": 65
+        },
+        {
+          "file": "b1-crisp/between-0867-1.png",
+          "ms": 65
+        },
+        {
+          "file": "stage-rest/sprite-116.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0868-0.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0868-1.png",
+          "ms": 42
+        },
+        {
+          "file": "stage-rest/sprite-117.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0869-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0869-1.png",
+          "ms": 42
+        },
+        {
+          "file": "stage-rest/sprite-118.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0870-0.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0870-1.png",
+          "ms": 42
+        },
+        {
+          "file": "stage-rest/sprite-119.png",
+          "ms": 79
+        },
+        {
+          "file": "b1-crisp/between-0871-0.png",
+          "ms": 80
+        },
+        {
+          "file": "b1-crisp/between-0871-1.png",
+          "ms": 79
+        },
+        {
+          "file": "stage-rest/sprite-120.png",
+          "ms": 51
+        },
+        {
+          "file": "b1-crisp/between-0872-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b1-crisp/between-0872-1.png",
+          "ms": 51
+        },
+        {
+          "file": "stage-rest/sprite-121.png",
+          "ms": 51
+        },
+        {
+          "file": "b1-crisp/between-0873-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b1-crisp/between-0873-1.png",
+          "ms": 51
+        },
+        {
+          "file": "stage-rest/sprite-122.png",
+          "ms": 51
+        },
+        {
+          "file": "b1-crisp/between-0874-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b1-crisp/between-0874-1.png",
+          "ms": 51
+        },
+        {
+          "file": "stage-rest/sprite-123.png",
+          "ms": 97
+        },
+        {
+          "file": "b1-crisp/between-0875-0.png",
+          "ms": 98
+        },
+        {
+          "file": "b1-crisp/between-0875-1.png",
+          "ms": 97
+        },
+        {
+          "file": "stage-rest/sprite-124.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0876-0.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0876-1.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-125.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0877-0.png",
+          "ms": 64
+        },
+        {
+          "file": "b1-crisp/between-0877-1.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-126.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0878-0.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0878-1.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-127.png",
+          "ms": 224
+        },
+        {
+          "file": "stage-rest/sprite-128.png",
+          "ms": 145
+        },
+        {
+          "file": "stage-rest/sprite-129.png",
+          "ms": 146
+        },
+        {
+          "file": "stage-rest/sprite-130.png",
+          "ms": 145
+        },
+        {
+          "file": "stage-rest/sprite-130.png",
+          "ms": 140
+        },
+        {
+          "file": "stage-rest/sprite-131.png",
+          "ms": 56
+        }
+      ]
+    },
+    "stage-smoke-out": {
+      "label": "Закончить перекур",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "stage-rest/sprite-131.png",
+          "ms": 75
+        },
+        {
+          "file": "stage-rest/sprite-132.png",
+          "ms": 72
+        },
+        {
+          "file": "stage-rest/sprite-133.png",
+          "ms": 73
+        },
+        {
+          "file": "stage-rest/sprite-134.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0890-0.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-135.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0891-0.png",
+          "ms": 36
+        },
+        {
+          "file": "stage-rest/sprite-136.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0892-0.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-137.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0893-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-138.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-139.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0895-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-140.png",
+          "ms": 140
+        },
+        {
+          "file": "stage-rest/sprite-141.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/chair0.png",
+          "ms": 64
+        },
+        {
+          "file": "b1-crisp/chair1.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-142.png",
+          "ms": 65
+        },
+        {
+          "file": "stage-rest/sprite-143.png",
+          "ms": 62
+        },
+        {
+          "file": "stage-rest/sprite-144.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-145.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0901-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0901-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-146.png",
+          "ms": 92
+        },
+        {
+          "file": "stage-rest/sprite-147.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0904-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0904-1.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-148.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0905-0.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0905-1.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-149.png",
+          "ms": 300
+        },
+        {
+          "file": "stage-rest/sprite-150.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0908-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0908-1.png",
+          "ms": 29
+        },
+        {
+          "file": "stage-rest/sprite-151.png",
+          "ms": 86
+        },
+        {
+          "file": "stage-rest/sprite-152.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0910-0.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-153.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0911-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0911-1.png",
+          "ms": 29
+        },
+        {
+          "file": "stage-rest/sprite-154.png",
+          "ms": 86
+        },
+        {
+          "file": "stage-rest/sprite-155.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0913-0.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-156.png",
+          "ms": 28
+        },
+        {
+          "file": "b1-crisp/between-0914-0.png",
+          "ms": 29
+        },
+        {
+          "file": "stage-rest/after-chair-00.png",
+          "ms": 38
+        },
+        {
+          "file": "stage-rest/after-chair-01.png",
+          "ms": 38
+        },
+        {
+          "file": "stage-rest/after-chair-02.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/after-chair-03.png",
+          "ms": 38
+        },
+        {
+          "file": "stage-rest/sprite-000.png",
+          "ms": 180
+        }
+      ]
+    },
+    "smoke": {
+      "label": "Перекур Весперы",
+      "loopFrom": 83,
+      "outroFrom": 42,
+      "frames": [
+        {
+          "file": "stage-rest/sprite-000.png",
+          "ms": 34
+        },
+        {
+          "file": "stage-rest/before-chair-00.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/before-chair-01.png",
+          "ms": 30
+        },
+        {
+          "file": "stage-rest/before-chair-02.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-155.png",
+          "ms": 86
+        },
+        {
+          "file": "stage-rest/sprite-154.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0756-0.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-153.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0757-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0757-1.png",
+          "ms": 29
+        },
+        {
+          "file": "stage-rest/sprite-152.png",
+          "ms": 86
+        },
+        {
+          "file": "stage-rest/sprite-151.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0759-0.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-150.png",
+          "ms": 88
+        },
+        {
+          "file": "stage-rest/sprite-149.png",
+          "ms": 100
+        },
+        {
+          "file": "b1-crisp/between-0762-0.png",
+          "ms": 100
+        },
+        {
+          "file": "b1-crisp/between-0762-1.png",
+          "ms": 100
+        },
+        {
+          "file": "stage-rest/sprite-148.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0763-0.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0763-1.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-147.png",
+          "ms": 93
+        },
+        {
+          "file": "stage-rest/sprite-146.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0766-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0766-1.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-145.png",
+          "ms": 95
+        },
+        {
+          "file": "stage-rest/sprite-144.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-143.png",
+          "ms": 62
+        },
+        {
+          "file": "stage-rest/sprite-142.png",
+          "ms": 65
+        },
+        {
+          "file": "stage-rest/sprite-142.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/chair-seam-00.png",
+          "ms": 41
+        },
+        {
+          "file": "stage-rest/chair-seam-01.png",
+          "ms": 41
+        },
+        {
+          "file": "stage-rest/sprite-031.png",
+          "ms": 163
+        },
+        {
+          "file": "stage-rest/sprite-032.png",
+          "ms": 106
+        },
+        {
+          "file": "stage-rest/sprite-033.png",
+          "ms": 105
+        },
+        {
+          "file": "stage-rest/sprite-034.png",
+          "ms": 106
+        },
+        {
+          "file": "stage-rest/sprite-035.png",
+          "ms": 470
+        },
+        {
+          "file": "stage-rest/sprite-036.png",
+          "ms": 440
+        },
+        {
+          "file": "stage-rest/sprite-037.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0783-0.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0783-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-038.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0784-0.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-039.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0785-0.png",
+          "ms": 36
+        },
+        {
+          "file": "stage-rest/sprite-040.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0786-0.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-041.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0787-0.png",
+          "ms": 33
+        },
+        {
+          "file": "b1-crisp/between-0787-1.png",
+          "ms": 33
+        },
+        {
+          "file": "stage-rest/sprite-042.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0788-0.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0788-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-043.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0789-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0789-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-044.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0790-0.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0790-1.png",
+          "ms": 36
+        },
+        {
+          "file": "stage-rest/sprite-045.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0791-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-046.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0792-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-047.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0793-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-048.png",
+          "ms": 41
+        },
+        {
+          "file": "b1-crisp/between-0794-0.png",
+          "ms": 41
+        },
+        {
+          "file": "stage-rest/sprite-049.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0795-0.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-050.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0796-0.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-051.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0797-0.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0797-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-052.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0798-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-053.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0799-0.png",
+          "ms": 36
+        },
+        {
+          "file": "stage-rest/sprite-054.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0800-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-055.png",
+          "ms": 126
+        },
+        {
+          "file": "stage-rest/sprite-056.png",
+          "ms": 81
+        },
+        {
+          "file": "stage-rest/sprite-057.png",
+          "ms": 82
+        },
+        {
+          "file": "stage-rest/sprite-058.png",
+          "ms": 81
+        },
+        {
+          "file": "stage-rest/sprite-059.png",
+          "ms": 76
+        },
+        {
+          "file": "b1-crisp/between-0806-0.png",
+          "ms": 76
+        },
+        {
+          "file": "b1-crisp/between-0806-1.png",
+          "ms": 76
+        },
+        {
+          "file": "stage-rest/sprite-060.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0807-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0807-1.png",
+          "ms": 49
+        },
+        {
+          "file": "stage-rest/sprite-061.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0808-0.png",
+          "ms": 50
+        },
+        {
+          "file": "b1-crisp/between-0808-1.png",
+          "ms": 49
+        },
+        {
+          "file": "stage-rest/sprite-062.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0809-0.png",
+          "ms": 49
+        },
+        {
+          "file": "b1-crisp/between-0809-1.png",
+          "ms": 49
+        },
+        {
+          "file": "stage-rest/sprite-063.png",
+          "ms": 61
+        },
+        {
+          "file": "b1-crisp/between-0810-0.png",
+          "ms": 62
+        },
+        {
+          "file": "b1-crisp/between-0810-1.png",
+          "ms": 61
+        },
+        {
+          "file": "stage-rest/sprite-064.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0811-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0811-1.png",
+          "ms": 40
+        },
+        {
+          "file": "stage-rest/sprite-065.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0812-0.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0812-1.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/sprite-066.png",
+          "ms": 40
+        },
+        {
+          "file": "b1-crisp/between-0813-0.png",
+          "ms": 39
+        },
+        {
+          "file": "b1-crisp/between-0813-1.png",
+          "ms": 40
+        },
+        {
+          "file": "stage-rest/sprite-067.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0814-0.png",
+          "ms": 56
+        },
+        {
+          "file": "b1-crisp/between-0814-1.png",
+          "ms": 57
+        },
+        {
+          "file": "stage-rest/sprite-068.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0815-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0815-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-069.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0816-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0816-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-070.png",
+          "ms": 37
+        },
+        {
+          "file": "b1-crisp/between-0817-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0817-1.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-071.png",
+          "ms": 108
+        },
+        {
+          "file": "b1-crisp/between-0818-0.png",
+          "ms": 107
+        },
+        {
+          "file": "b1-crisp/between-0818-1.png",
+          "ms": 108
+        },
+        {
+          "file": "stage-rest/sprite-072.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0819-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0819-1.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-073.png",
+          "ms": 209
+        },
+        {
+          "file": "stage-rest/sprite-074.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0822-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0822-1.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-075.png",
+          "ms": 91
+        },
+        {
+          "file": "b1-crisp/between-0823-0.png",
+          "ms": 90
+        },
+        {
+          "file": "b1-crisp/between-0823-1.png",
+          "ms": 91
+        },
+        {
+          "file": "stage-rest/sprite-076.png",
+          "ms": 59
+        },
+        {
+          "file": "b1-crisp/between-0824-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0824-1.png",
+          "ms": 59
+        },
+        {
+          "file": "stage-rest/sprite-077.png",
+          "ms": 59
+        },
+        {
+          "file": "b1-crisp/between-0825-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0825-1.png",
+          "ms": 59
+        },
+        {
+          "file": "stage-rest/sprite-078.png",
+          "ms": 59
+        },
+        {
+          "file": "b1-crisp/between-0826-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0826-1.png",
+          "ms": 59
+        },
+        {
+          "file": "stage-rest/sprite-079.png",
+          "ms": 68
+        },
+        {
+          "file": "b1-crisp/between-0827-0.png",
+          "ms": 68
+        },
+        {
+          "file": "b1-crisp/between-0827-1.png",
+          "ms": 68
+        },
+        {
+          "file": "stage-rest/sprite-080.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0828-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0828-1.png",
+          "ms": 44
+        },
+        {
+          "file": "stage-rest/sprite-081.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0829-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0829-1.png",
+          "ms": 44
+        },
+        {
+          "file": "stage-rest/sprite-082.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0830-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0830-1.png",
+          "ms": 44
+        },
+        {
+          "file": "stage-rest/sprite-083.png",
+          "ms": 54
+        },
+        {
+          "file": "b1-crisp/between-0831-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b1-crisp/between-0831-1.png",
+          "ms": 54
+        },
+        {
+          "file": "stage-rest/sprite-084.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0832-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0832-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-085.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0833-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0833-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-086.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0834-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0834-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-087.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0835-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0835-1.png",
+          "ms": 69
+        },
+        {
+          "file": "stage-rest/sprite-088.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0836-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0836-1.png",
+          "ms": 45
+        },
+        {
+          "file": "stage-rest/sprite-089.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0837-0.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0837-1.png",
+          "ms": 45
+        },
+        {
+          "file": "stage-rest/sprite-090.png",
+          "ms": 45
+        },
+        {
+          "file": "b1-crisp/between-0838-0.png",
+          "ms": 44
+        },
+        {
+          "file": "b1-crisp/between-0838-1.png",
+          "ms": 45
+        },
+        {
+          "file": "stage-rest/sprite-091.png",
+          "ms": 107
+        },
+        {
+          "file": "b1-crisp/between-0839-0.png",
+          "ms": 106
+        },
+        {
+          "file": "b1-crisp/between-0839-1.png",
+          "ms": 107
+        },
+        {
+          "file": "stage-rest/sprite-092.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0840-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0840-1.png",
+          "ms": 69
+        },
+        {
+          "file": "stage-rest/sprite-093.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0841-0.png",
+          "ms": 68
+        },
+        {
+          "file": "b1-crisp/between-0841-1.png",
+          "ms": 69
+        },
+        {
+          "file": "stage-rest/sprite-094.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0842-0.png",
+          "ms": 69
+        },
+        {
+          "file": "b1-crisp/between-0842-1.png",
+          "ms": 69
+        },
+        {
+          "file": "stage-rest/sprite-095.png",
+          "ms": 110
+        },
+        {
+          "file": "b1-crisp/between-0843-0.png",
+          "ms": 110
+        },
+        {
+          "file": "b1-crisp/between-0843-1.png",
+          "ms": 110
+        },
+        {
+          "file": "stage-rest/sprite-096.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0844-0.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0844-1.png",
+          "ms": 71
+        },
+        {
+          "file": "stage-rest/sprite-097.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0845-0.png",
+          "ms": 72
+        },
+        {
+          "file": "b1-crisp/between-0845-1.png",
+          "ms": 71
+        },
+        {
+          "file": "stage-rest/sprite-098.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0846-0.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0846-1.png",
+          "ms": 71
+        },
+        {
+          "file": "stage-rest/sprite-099.png",
+          "ms": 88
+        },
+        {
+          "file": "b1-crisp/between-0847-0.png",
+          "ms": 89
+        },
+        {
+          "file": "b1-crisp/between-0847-1.png",
+          "ms": 88
+        },
+        {
+          "file": "stage-rest/sprite-100.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0848-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0848-1.png",
+          "ms": 57
+        },
+        {
+          "file": "stage-rest/sprite-101.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0849-0.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0849-1.png",
+          "ms": 57
+        },
+        {
+          "file": "stage-rest/sprite-102.png",
+          "ms": 57
+        },
+        {
+          "file": "b1-crisp/between-0850-0.png",
+          "ms": 58
+        },
+        {
+          "file": "b1-crisp/between-0850-1.png",
+          "ms": 57
+        },
+        {
+          "file": "stage-rest/sprite-103.png",
+          "ms": 245
+        },
+        {
+          "file": "stage-rest/sprite-104.png",
+          "ms": 158
+        },
+        {
+          "file": "stage-rest/sprite-105.png",
+          "ms": 159
+        },
+        {
+          "file": "stage-rest/sprite-106.png",
+          "ms": 158
+        },
+        {
+          "file": "stage-rest/sprite-107.png",
+          "ms": 71
+        },
+        {
+          "file": "b1-crisp/between-0859-0.png",
+          "ms": 72
+        },
+        {
+          "file": "b1-crisp/between-0859-1.png",
+          "ms": 71
+        },
+        {
+          "file": "stage-rest/sprite-108.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0860-0.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0860-1.png",
+          "ms": 46
+        },
+        {
+          "file": "stage-rest/sprite-109.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0861-0.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0861-1.png",
+          "ms": 46
+        },
+        {
+          "file": "stage-rest/sprite-110.png",
+          "ms": 46
+        },
+        {
+          "file": "b1-crisp/between-0862-0.png",
+          "ms": 47
+        },
+        {
+          "file": "b1-crisp/between-0862-1.png",
+          "ms": 46
+        },
+        {
+          "file": "stage-rest/sprite-111.png",
+          "ms": 54
+        },
+        {
+          "file": "b1-crisp/between-0863-0.png",
+          "ms": 55
+        },
+        {
+          "file": "b1-crisp/between-0863-1.png",
+          "ms": 54
+        },
+        {
+          "file": "stage-rest/sprite-112.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0864-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0864-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-113.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0865-0.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0865-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-114.png",
+          "ms": 35
+        },
+        {
+          "file": "b1-crisp/between-0866-0.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0866-1.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-115.png",
+          "ms": 65
+        },
+        {
+          "file": "b1-crisp/between-0867-0.png",
+          "ms": 65
+        },
+        {
+          "file": "b1-crisp/between-0867-1.png",
+          "ms": 65
+        },
+        {
+          "file": "stage-rest/sprite-116.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0868-0.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0868-1.png",
+          "ms": 42
+        },
+        {
+          "file": "stage-rest/sprite-117.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0869-0.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0869-1.png",
+          "ms": 42
+        },
+        {
+          "file": "stage-rest/sprite-118.png",
+          "ms": 42
+        },
+        {
+          "file": "b1-crisp/between-0870-0.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0870-1.png",
+          "ms": 42
+        },
+        {
+          "file": "stage-rest/sprite-119.png",
+          "ms": 79
+        },
+        {
+          "file": "b1-crisp/between-0871-0.png",
+          "ms": 80
+        },
+        {
+          "file": "b1-crisp/between-0871-1.png",
+          "ms": 79
+        },
+        {
+          "file": "stage-rest/sprite-120.png",
+          "ms": 51
+        },
+        {
+          "file": "b1-crisp/between-0872-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b1-crisp/between-0872-1.png",
+          "ms": 51
+        },
+        {
+          "file": "stage-rest/sprite-121.png",
+          "ms": 51
+        },
+        {
+          "file": "b1-crisp/between-0873-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b1-crisp/between-0873-1.png",
+          "ms": 51
+        },
+        {
+          "file": "stage-rest/sprite-122.png",
+          "ms": 51
+        },
+        {
+          "file": "b1-crisp/between-0874-0.png",
+          "ms": 52
+        },
+        {
+          "file": "b1-crisp/between-0874-1.png",
+          "ms": 51
+        },
+        {
+          "file": "stage-rest/sprite-123.png",
+          "ms": 97
+        },
+        {
+          "file": "b1-crisp/between-0875-0.png",
+          "ms": 98
+        },
+        {
+          "file": "b1-crisp/between-0875-1.png",
+          "ms": 97
+        },
+        {
+          "file": "stage-rest/sprite-124.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0876-0.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0876-1.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-125.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0877-0.png",
+          "ms": 64
+        },
+        {
+          "file": "b1-crisp/between-0877-1.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-126.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0878-0.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/between-0878-1.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-127.png",
+          "ms": 224
+        },
+        {
+          "file": "stage-rest/sprite-128.png",
+          "ms": 145
+        },
+        {
+          "file": "stage-rest/sprite-129.png",
+          "ms": 146
+        },
+        {
+          "file": "stage-rest/sprite-130.png",
+          "ms": 145
+        },
+        {
+          "file": "stage-rest/sprite-130.png",
+          "ms": 140
+        },
+        {
+          "file": "stage-rest/sprite-131.png",
+          "ms": 56
+        }
+      ]
+    },
+    "smoke-out": {
+      "label": "Закончить перекур",
+      "loopFrom": 0,
+      "frames": [
+        {
+          "file": "stage-rest/sprite-131.png",
+          "ms": 75
+        },
+        {
+          "file": "stage-rest/sprite-132.png",
+          "ms": 72
+        },
+        {
+          "file": "stage-rest/sprite-133.png",
+          "ms": 73
+        },
+        {
+          "file": "stage-rest/sprite-134.png",
+          "ms": 38
+        },
+        {
+          "file": "b1-crisp/between-0890-0.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-135.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0891-0.png",
+          "ms": 36
+        },
+        {
+          "file": "stage-rest/sprite-136.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0892-0.png",
+          "ms": 37
+        },
+        {
+          "file": "stage-rest/sprite-137.png",
+          "ms": 36
+        },
+        {
+          "file": "b1-crisp/between-0893-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-138.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-139.png",
+          "ms": 34
+        },
+        {
+          "file": "b1-crisp/between-0895-0.png",
+          "ms": 35
+        },
+        {
+          "file": "stage-rest/sprite-140.png",
+          "ms": 140
+        },
+        {
+          "file": "stage-rest/sprite-141.png",
+          "ms": 63
+        },
+        {
+          "file": "b1-crisp/chair0.png",
+          "ms": 64
+        },
+        {
+          "file": "b1-crisp/chair1.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-142.png",
+          "ms": 65
+        },
+        {
+          "file": "stage-rest/sprite-143.png",
+          "ms": 62
+        },
+        {
+          "file": "stage-rest/sprite-144.png",
+          "ms": 63
+        },
+        {
+          "file": "stage-rest/sprite-145.png",
+          "ms": 32
+        },
+        {
+          "file": "b1-crisp/between-0901-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0901-1.png",
+          "ms": 32
+        },
+        {
+          "file": "stage-rest/sprite-146.png",
+          "ms": 92
+        },
+        {
+          "file": "stage-rest/sprite-147.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0904-0.png",
+          "ms": 31
+        },
+        {
+          "file": "b1-crisp/between-0904-1.png",
+          "ms": 31
+        },
+        {
+          "file": "stage-rest/sprite-148.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0905-0.png",
+          "ms": 70
+        },
+        {
+          "file": "b1-crisp/between-0905-1.png",
+          "ms": 70
+        },
+        {
+          "file": "stage-rest/sprite-149.png",
+          "ms": 300
+        },
+        {
+          "file": "stage-rest/sprite-150.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0908-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0908-1.png",
+          "ms": 29
+        },
+        {
+          "file": "stage-rest/sprite-151.png",
+          "ms": 86
+        },
+        {
+          "file": "stage-rest/sprite-152.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0910-0.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-153.png",
+          "ms": 29
+        },
+        {
+          "file": "b1-crisp/between-0911-0.png",
+          "ms": 30
+        },
+        {
+          "file": "b1-crisp/between-0911-1.png",
+          "ms": 29
+        },
+        {
+          "file": "stage-rest/sprite-154.png",
+          "ms": 86
+        },
+        {
+          "file": "stage-rest/sprite-155.png",
+          "ms": 43
+        },
+        {
+          "file": "b1-crisp/between-0913-0.png",
+          "ms": 43
+        },
+        {
+          "file": "stage-rest/sprite-156.png",
+          "ms": 28
+        },
+        {
+          "file": "b1-crisp/between-0914-0.png",
+          "ms": 29
+        },
+        {
+          "file": "stage-rest/after-chair-00.png",
+          "ms": 38
+        },
+        {
+          "file": "stage-rest/after-chair-01.png",
+          "ms": 38
+        },
+        {
+          "file": "stage-rest/after-chair-02.png",
+          "ms": 39
+        },
+        {
+          "file": "stage-rest/after-chair-03.png",
+          "ms": 38
+        },
+        {
+          "file": "stage-rest/sprite-000.png",
+          "ms": 180
+        }
+      ]
+    }
+  },
+  "lookFrames": [
+    "b1-crisp/turn-00.png",
+    "b1-crisp/turn-01.png",
+    "b1-crisp/turn-02.png",
+    "b1-crisp/turn-03.png",
+    "b1-crisp/turn-04.png",
+    "b1-crisp/turn-05.png",
+    "b1-crisp/turn-06.png",
+    "b1-crisp/turn-07.png",
+    "b1-crisp/turn-08.png",
+    "b1-crisp/turn-09.png",
+    "b1-crisp/turn-10.png",
+    "b1-crisp/turn-11.png",
+    "b1-crisp/turn-12.png",
+    "b1-crisp/turn-13.png",
+    "b1-crisp/turn-14.png",
+    "b1-crisp/turn-15.png"
+  ],
+  "lookBlinkFrames": [
+    "b1-crisp/turn-blink-00.png",
+    "b1-crisp/turn-blink-01.png",
+    "b1-crisp/turn-blink-02.png",
+    "b1-crisp/turn-blink-03.png",
+    "b1-crisp/turn-blink-04.png",
+    "b1-crisp/turn-blink-05.png",
+    "b1-crisp/turn-blink-06.png",
+    "b1-crisp/turn-blink-07.png",
+    "b1-crisp/turn-blink-08.png",
+    "b1-crisp/turn-blink-09.png",
+    "b1-crisp/turn-blink-10.png",
+    "b1-crisp/turn-blink-11.png",
+    "b1-crisp/turn-blink-12.png",
+    "b1-crisp/turn-blink-13.png",
+    "b1-crisp/turn-blink-14.png",
+    "b1-crisp/turn-blink-15.png"
+  ],
+  "inPlaceStageGaze": true
+}

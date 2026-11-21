@@ -1,0 +1,12 @@
+{
+  "typingHoldMs": 2600,
+  "scrollHoldMs": 1700,
+  "smokeAfterMs": 5500,
+  "windowWidth": 320,
+  "danceMinEvents": 12,
+  "danceMinTypingMs": 1200,
+  "typingInAllApps": true,
+  "headAnchorX": 0.52517,
+  "headAnchorY": 0.1851,
+  "animationSpeed": 1.0
+}
